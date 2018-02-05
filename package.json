@@ -1,0 +1,20 @@
+{
+  "author": "RockSteady",
+  "dependencies": {
+    "handlebars": "^4.0.11",
+    "metalsmith": "^2.3.0",
+    "metalsmith-assets": "^0.1.0",
+    "metalsmith-browser-sync": "^1.1.1",
+    "metalsmith-layouts": "^1.8.0",
+    "repository": "https://github.com/turtlecoin/turtlecoin.lol"
+  },
+  "description": "Website for TurtleCoin",
+  "license": "MIT",
+  "name": "turtlecoin.lol",
+  "scripts": {
+    "build": "NODE_ENV=production node ./build.js",
+    "server": "node ./build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
