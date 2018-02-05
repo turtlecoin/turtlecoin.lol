@@ -10,10 +10,12 @@ From: https://github.com/craigbuckler/metalsmith-demo/blob/master/build.js
 
 // Packages
 const Metalsmith = require('metalsmith');
+const assets = require('metalsmith-assets');
 const layouts = require('metalsmith-layouts');
 
 // Configuration
 const dir = {
+  assets: './src/assets',
   base: __dirname + '/',
   destination: './build/',
   layouts: './src/layouts',
@@ -33,6 +35,10 @@ const metalsmith = Metalsmith(dir.base)
     default: 'layout.html',
     directory: dir.layouts,
     engine: 'handlebars'
+  }))
+  .use(assets({
+    source: dir.assets,
+    destination: './' // relative to the build directory
   }));
 
 if (browserSync) {

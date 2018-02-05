@@ -1,2 +1,582 @@
-Hey you rock again
-!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="author" content="RockSteady" />
+	<meta name="description" content="TurtleCoin">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>TurtleCoin</title>
+
+	<!-- FontAwesome -->
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<!-- Royal Preloader CSS -->
+	<link href="css/royal_preloader.css" rel="stylesheet">
+	<!-- Standard Favicon -->
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+	<!-- FontAwesome -->
+	<script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+	<!-- jQuery Files -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+	<!-- Parallax File -->
+	<script type="text/javascript" src="js/parallax.min.js"></script>
+
+  <!-- Mapbox -->
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.css' rel='stylesheet' />
+
+	<!-- Royal Preloader -->
+	<script type="text/javascript" src="js/royal_preloader.min.js"></script>
+	<script type="text/javascript">
+		Royal_Preloader.config({
+		    mode:           'progress',
+		    showProgress:   true,
+		    background:     '#1d1d1d'
+		});
+	</script>
+
+	<!-- Stylesheets -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/ionicons.min.css" rel="stylesheet">
+	<link href="css/pe-icon-7-stroke.css" rel="stylesheet">
+	<link href="css/magnific-popup.css" rel="stylesheet">
+	<link href="css/logoiconfont.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet" title="main-css">
+	<link href="css/colors/green.css" rel="stylesheet">
+
+</head>
+<body class="royal_preloader" data-spy="scroll" data-target=".navbar" data-offset="70">
+	<div id="royal_preloader"></div>
+
+	<!-- Begin Header -->
+	<header>
+		<!-- Begin Navigation -->
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container-fluid">
+				<div class="row">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand scroll-link" href="#home" data-id="home">
+						<h2><sup><strong>&nbsp;TurtleCoin</strong></sup></h2>	</a>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="#home" data-id="home" class="scroll-link">Home</a></li>
+							<li><a href="#download" data-id="download" class="scroll-link">Download</a></li>
+							<li><a href="#why" data-id="why" class="scroll-link">Features</a></li>
+							<li><a href="#story" data-id="story" class="scroll-link">The Story</a></li>
+							<li><a href="#specs" data-id="specs" class="scroll-link">Specs</a></li>
+							<li><a href="#roadmap" data-id="roadmap" class="scroll-link">Roadmap</a></li>
+							<li><a href="#contact" data-id="contact" class="scroll-link">Support</a></li>
+
+						</ul>
+					</div><!-- /.navbar-collapse -->
+				</div>
+			</div><!-- /.container-fluid -->
+		</nav>
+		<!-- End Navigation -->
+	</header>
+	<!-- End Header -->
+
+	<!-- Begin Jumbotron -->
+	<div class="jumbotron jumbotron-main" id="home">
+		<div id="map-wrapper">
+      <div id="map" style="position:absolute; top: 0; bottom: 0; width: 100%; height: 100%;"></div>
+    </div>
+		<div class="container center-vertically-holder">
+			<div class="center-vertically">
+				<div id="scaleReveal" class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3 text-center">
+					<object>
+						<embed src="images/logos/turtle_shield_animate.svg" height="20%" width="20%">
+					</object>
+					<div class="ticker">
+						<h1>TurtleCoin is Fast</h1>
+						<h1>TurtleCoin is Easy</h1>
+						<h1>TurtleCoin is Safe</h1>
+					</div>
+					<hr>
+					<p>&nbsp;&nbsp;&nbsp;TurtleCoin is a fun, fast, and easy way to send money<br /> to friends and businesses.</p>
+					<a href="#download" data-id="download" class="scroll-link btn btn-default btn-white btn-lg mt15">Download&nbsp;<span class="ion-android-arrow-down"></span></a>
+				</div><!-- /.column -->
+			</div><!-- /.vertical center -->
+		</div><!-- /.container -->
+	</div>
+	<!-- End Jumbotron -->
+
+	<!-- Begin Intro -->
+	<section id="download">
+
+		<!-- Begin Hello Intro -->
+		<div id="hello-intro" class="pt60 pb60">
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-12">
+						<h3 class="no-margin rightReveal"><strong>We have builds for Windows, Apple, and Ubuntu Linux. </strong>If you prefer <strong>source code</strong>, you can find that <a href="https://github.com/turtlecoin/turtlecoin/">here</a>, but you should also contact us <a href="http://chat.turtlecoin.lol">here</a> because we're looking for people like you to join us.</h3>
+					</div>
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /.div -->
+		<!-- End Hello Intro -->
+
+		<!-- Begin Our Process Title -->
+		<div id="our-process-title" class="pt30 pb30">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 text-center">
+						<h4 class="no-margin">Select Your System</h4>
+					</div>
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /.div -->
+		<!-- End Our Process Title -->
+
+		<!-- Begin Our Process -->
+		<div id="our-process">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-sm-4 col-md-4 col-lg-4 process-box text-center pt50 pb50">
+						<div class="leftReveal">
+							<div class="process-intro">
+								<h3 class="process-number">Apple</h3>
+								<div><i class="process-icons fab fa-apple"></i></div>
+								<h2>v0.2.2</h2>
+							</div>
+							<div class="process-content">
+								<div><span class="process-icons pe-7s-users"></span></div>
+								<h2 class="mt15 mb20">TurtleCoin-v0.2.2-mac.zip</h2>
+								<h4 class="mt15 mb20">Compiled by BrianWentzloff</h4>
+								<p class="no-margin">
+									<button type="button" type="https://github.com/turtlecoin/turtlecoin/releases/download/v0.2.2/TurtleCoin-v0.2.2-mac.zip" name="button" class="btn btn-default">5.69MB Download</button>
+								</p>
+							</div>
+						</div><!-- /.animation -->
+					</div><!-- /.column -->
+					<div class="col-sm-4 col-md-4 col-lg-4 process-box text-center pt50 pb50">
+						<div class="bottomReveal">
+							<div class="process-intro">
+								<h3 class="process-number">Windows</h3>
+								<div><i class="process-icons fab fa-windows"></i></span></div>
+								<h2>v0.2.2</h2>
+							</div>
+							<div class="process-content">
+								<div><span class="process-icons pe-7s-users"></span></div>
+								<h2 class="mt15 mb20">TurtleCoin-v0.2.2-windows.zip</h2>
+								<h4 class="mt15 mb20">Compiled by CodIsAFish</h4>
+								<p class="no-margin">
+									<button type="button" href="https://github.com/turtlecoin/turtlecoin/releases/download/v0.2.2/TurtleCoin-v0.2.2-windows.zip" name="button" class="btn btn-default">5.48MB Download</button>
+								</p>
+							</div>
+						</div><!-- /.animation -->
+					</div><!-- /.column -->
+					<div class="col-sm-4 col-md-4 col-lg-4 process-box text-center pt50 pb50 no-border-right">
+						<div class="rightReveal">
+							<div class="process-intro">
+								<h3 class="process-number">Linux</h3>
+								<div><i class="process-icons fab fa-linux"></i></span></div>
+								<h2>v0.2.2</h2>
+							</div>
+							<div class="process-content">
+								<div><span class="process-icons pe-7s-users"></span></div>
+								<h2 class="mt15 mb20">TurtleCoin-v0.2.2-linux.tar.gz</h2>
+								<h4 class="mt15 mb20">Compiled by RockSteady</h4>
+								<p class="no-margin">
+									<button type="button"  href="https://github.com/turtlecoin/turtlecoin/releases/download/v0.2.2/TurtleCoin-v0.2.2-linux.tar.gz" name="button" class="btn btn-default">73.4MB Download</button>
+								</p>
+							</div>
+						</div><!-- /.animation -->
+					</div><!-- /.column -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /.div -->
+		<!-- End Our Process -->
+
+		<!-- Begin Quote Carousel -->
+		<div id="carousel" class="testimonial-carousel pt40 pb20">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1 text-center">
+						<span class="pe-7s-close heading-3-icon"></span>
+		                <h2 class="heading-3">Fun Facts</h2>
+						<div class="fade-quote-carousel carousel slide" id="quote-carousel" data-ride="carousel" data-interval="3000">
+							<!-- Carousel indicators -->
+							<ol class="carousel-indicators">
+								<li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+								<li data-target="#quote-carousel" data-slide-to="1"></li>
+								<li data-target="#quote-carousel" data-slide-to="2"></li>
+							</ol>
+							<!-- Carousel items -->
+							<div class="carousel-inner">
+								<div class="active item" style="height=150px;">
+									<blockquote>
+										<p>TurtleCoin has a 30 second block time, which means transactions confirm faster.</p>
+									</blockquote>
+								</div>
+								<div class="item" style="height=150px;">
+									<blockquote>
+										<p>TurtleCoin has a private blockchain, nobody sees your money but you.</p>
+									</blockquote>
+								</div>
+								<div class="item" style="height=150px;">
+									<blockquote>
+										<p>You can restore a lost or deleted TurtleCoin wallet with your view key and spend key.</p>
+									</blockquote>
+								</div>
+							</div>
+
+						</div><!-- /.carousel -->
+					</div><!-- /.column -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /.carousel -->
+		<!-- End Quote Carousel -->
+
+	</section><!-- /.section -->
+	<!-- End Intro -->
+
+	<!-- Begin why -->
+	<section id="why" class="background2 section-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 section-title text-center">
+					<h2>Why TurtleCoin?</h2>
+					<span class="section-divider"></span>
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+
+			<div class="row">
+				<!-- Item 1 -->
+				<div class="why-item col-xs-12 col-sm-6 col-md-4 col-lg-4">
+					<div class="services-box leftReveal">
+						<span class="pe-7s-gleam services-icon"></span>
+						<h3 class="service-name">1. Fast Transactions</h3>
+						<p class="text-small">TurtleCoin is processing transactions every 30 seconds, as opposed to every 10 minutes. Your money travels 20x faster on TurtleCoin than on Bitcoin or BitcoinCash.</p>
+					</div>
+				</div><!-- /.column -->
+
+				<!-- Item 2 -->
+				<div class="why-item col-xs-12 col-sm-6 col-md-4 col-lg-4 mt30-xs">
+					<div class="services-box topReveal">
+						<span class="pe-7s-look services-icon"></span>
+						<h3 class="service-name">2. Privacy</h3>
+						<p class="text-small">TurtleCoin has the same privacy features you'll find in Monero and Aeon. Every transaction is private unless you choose to make it public.</p>
+					</div>
+				</div><!-- /.column -->
+
+				<!-- Item 3 -->
+				<div class="why-item col-xs-12 col-sm-6 col-md-4 col-lg-4 mt30-sm mt30-xs">
+					<div class="services-box rightReveal">
+						<span class="pe-7s-bicycle services-icon"></span>
+						<h3 class="service-name">3. Easy To Use</h3>
+						<p class="text-small">We support almost every OS, even on mobile you can <a href="http://paperwallet.surge.sh">make a secured paper-wallet for free</a>, and get started with TurtleCoin in under 5 minutes.</p>
+
+					</div>
+				</div><!-- /.column -->
+
+				<!-- Item 4 -->
+				<div class="why-item col-xs-12 col-sm-6 col-md-4 col-lg-4 mt30">
+					<div class="services-box leftReveal">
+						<span class="pe-7s-plugin services-icon"></span>
+						<h3 class="service-name">4. Easy To Mine</h3>
+						<p class="text-small">TurtleCoin comes with its own basic CPU miner, but you can also use any Monero mining software you're used to if you'd rather use GPU's or mining pools. We recommend <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.</p>
+
+					</div>
+				</div><!-- /.column -->
+
+
+				<!-- Item 5 -->
+				<div class="why-item col-xs-12 col-sm-6 col-md-4 col-lg-4 mt30">
+					<div class="services-box bottomReveal">
+						<span class="pe-7s-users services-icon"></span>
+						<h3 class="service-name">5. Community</h3>
+						<p class="text-small">The TurtleCoin community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our <a href="http://chat.turtlecoin.lol">Discord Chat</a>.</p>
+					</div>
+				</div><!-- /.column -->
+
+				<!-- Item 6 -->
+				<div class="why-item col-xs-12 col-sm-6 col-md-4 col-lg-4 mt30">
+					<div class="services-box rightReveal">
+						<span class="pe-7s-headphones services-icon"></span>
+						<h3 class="service-name">6. Support</h3>
+						<p class="text-small">We are growing a community of developers and testers in our <a href="http://meta.turtlecoin.lol">GitHub meta-forum</a>. You can help us by testing new software and submitting detailed bug reports, or even just cheering us on from the sidelines helps.</p>
+					</div>
+				</div><!-- /.column -->
+
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</section><!-- /.section -->
+	<!-- End Services -->
+
+	<!-- Begin About -->
+	<section id="story" class="background1 section-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 section-title text-center">
+					<h2>The Story</h2>
+					<span class="section-divider"></span>
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+			<div class="row mb15">
+				<div class="col-sm-5 leftReveal">
+					<h5 class="heading-1 mb20">Our Background</h5>
+					<h3 class="mb15 no-margin-top">Most TurtleCoin Contributors have thick, luscious beards. <strong>FACT.</strong></h3>
+					<p class="no-margin text-small"><em>This gives us <strong>+10xp Chin Stroke</strong> abilities, and enhances our patience and diagnostic skills. <i class="far fa-smile"></i></em></p><br>
+					<p>The truth is, most of us are full-time developers on other projects, and this is our way to give back to the community with something fun.</p>
+				</div><!-- /.column -->
+				<div class="col-sm-7 mt30-xs rightReveal">
+					<h5 class="heading-1 mb20">How we started it</h5>
+
+					<span class="ion-beer logo-about"></span>
+					<p>One chilly December night, RockSteady and Bebop were having a beer too many while discussing the madness around fake, flimsy ICOs with no product. Bebop surmised that it just wouldn't be possible to put out a real project now days without a serious team, doing serious marketing,  bringing in serious funding.</p>
+					<p>RockSteady leaned in closely, stroking his beard intently, with only one response..</p>
+					<p><strong>"Hold my beer."</strong></p>
+					<p>That night, December 9th, 2017, TurtleCoin was born.</p>
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+			<div class="row mb30">
+				<div class="col-sm-9 leftReveal">
+					<h5 class="heading-1 mb20">Why?</h5>
+					<p class="lead no-margin">Too many projects are bringing in <strong>too much funding</strong> despite most having <strong>no damn product</strong>. We figured, "why not do the whole thing in reverse? Start with a fun project, make it as simple and accessible as possible, and let it grow on its own."
+					<p class="lead no-margin">We have a strong belief in our no-funding strategy; if we make a cool product, <strong>the value will create itself</strong>. If you think we're wrong, we're happy to <a href="http://meta.turtlecoin.lol">hear</a> about it.</p>
+				</div><!-- /.column -->
+				<div class="col-sm-3 mt30-xs rightReveal">
+					<h5 class="heading-1 mb20">Quote</h5>
+					<p class="no-margin"><i>A wise rat once said, "A turtle only moves forward by sticking his neck out.."</i></p>
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+
+		</div><!-- /.container -->
+	</section><!-- /.section -->
+	<!-- End About -->
+
+	<!-- Begin Our Count -->
+	<section id="ourcount" class="parallax-window" data-parallax="scroll" data-image-src="images/slider1.jpg">
+		<div class="container section-padding" id="specs">
+			<div class="row mb30">
+				<div class="section-title col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3 text-center">
+					<h2>The Fine Print</h2>
+					<span class="section-divider mb15"></span>
+					<p class="no-margin">Here are some quick details about the project.</p>
+					<p class="text-small"></p>
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+			<div class="row">
+				<div class="col-sm-6 col-md-3 item leftReveal">
+					<div class="circle-hold">
+                        <i class="ion-cube"></i>
+                    </div>
+                    <h2 class="timer mb5" data-from="1" data-to="29800" data-refresh-interval="20">1</h2><h5>TRTL</h5>
+                    <p class="no-margin">Avg. Block Reward</p>
+				</div><!-- /.column -->
+				<div class="col-sm-6 col-md-3 item mt30-xs rightReveal">
+					<div class="circle-hold">
+                        <i class="ion-clock"></i>
+                    </div>
+                    <h2 class="timer mb5" data-from="1" data-to="30" data-refresh-interval="20">1</h2>
+                    <p class="no-margin">1 Block every<br> 30 seconds</p>
+				</div><!-- /.column -->
+				<div class="col-sm-6 col-md-3 item mt30-xs mt30-sm leftReveal">
+					<div class="circle-hold">
+						<i class="ion-social-github"></i>
+										</div>
+										<h2 class="timer mb5" data-from="1" data-to="5" data-refresh-interval="20">1</h2>
+										<p class="no-margin">5 Developers <br> <a href="http://chat.turtlecoin.lol">Join Us</a></p>
+
+				</div><!-- /.column -->
+				<div class="col-sm-6 col-md-3 item mt30-xs mt30-sm rightReveal">
+					<div class="circle-hold">
+						<i class="ion-happy-outline"></i>
+										</div>
+										<h2 class="timer mb5">0</h2>
+										<p class="no-margin">No Premine <br>No Shenanigans</p>
+
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</section><!-- /.section -->
+	<!-- End Our Count -->
+
+
+	<!-- Begin Timeline -->
+	<section id="roadmap" class="background1 section-padding-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 section-title text-center">
+					<h2>Roadmap</h2>
+					<span class="section-divider"></span>
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+			<div class="row">
+				<div class="col-lg-12">
+					<ul class="timeline pb80">
+
+						<!-- Item 1 -->
+						<li>
+							<div class="timeline-image scaleReveal"><img alt="" class="img-circle img-responsive" src="images/timeline-1.png"></div>
+							<div class="timeline-panel leftReveal">
+								<div class="timeline-heading">
+									<h5 class="heading-1 mb15">Q4 2017</h5>
+									<h4 class="subheading">We Began Our Adventure</h4>
+								</div>
+								<div class="timeline-body">
+									<p>TurtleCoin was born <strong>December 9th, 2017</strong>. </p>
+									<p>
+										In the beginning, we were command line only, compiled only for Linux, and banned repeatedly from online forums for hosting flash TRTL giveaways.</p>
+								</div>
+							</div>
+						</li>
+
+						<!-- Item 2 -->
+						<li class="timeline-inverted">
+							<div class="timeline-image scaleReveal"><img alt="" class="img-circle img-responsive" src="images/timeline-2.png"></div>
+							<div class="timeline-panel rightReveal">
+								<div class="timeline-heading">
+									<h5 class="heading-1 mb15">Q1 2018</h5>
+									<h4 class="subheading">Dueling Wallets</h4>
+								</div>
+								<div class="timeline-body">
+									<p>Two graphical wallets enter production testing, one written in Python with Glade from scratch, and the other, written in C++/Qt and forked from Bytecoin.</p>
+									<p>
+
+										<a href="https://github.com/turtlecoin/turtle-wallet"><span class="ion-android-arrow-dropright"></span> Follow Turtle-Wallet [Python]</a></p>
+
+									<p>
+
+										<a href="https://github.com/rocksteadytc/ooze"><span class="ion-android-arrow-dropright"></span> Follow Ooze-Wallet [C++/Qt]</a></p>
+								</div>
+							</div>
+						</li>
+
+						<!-- Item 3 -->
+						<li>
+							<div class="timeline-image scaleReveal"><img alt="" class="img-circle img-responsive" src="images/timeline-3.png"></div>
+							<div class="timeline-panel leftReveal">
+								<div class="timeline-heading">
+									<h5 class="heading-1 mb15">Q2 2018</h5>
+									<h4 class="subheading">Exchange Partnerships</h4>
+								</div>
+								<div class="timeline-body"> <p>We are forming relationships now with our future exchange partners so that when the time is right, we can make a well-prepared step forward into the markets.</p>
+								</div>
+							</div>
+						</li>
+
+						<!-- Item 4 -->
+						<li class="timeline-inverted">
+							<div  class="timeline-image scaleReveal"><img alt="" class="img-circle img-responsive" src="images/timeline-4.png"></div>
+							<div class="timeline-panel rightReveal">
+								<div class="timeline-heading">
+									<h5 class="heading-1 mb15">TBA</h5>
+									<h4 class="subheading">Möbius, The Looping Blockchain</h4>
+								</div>
+								<div class="timeline-body">
+									<p>A big headache is syncing a huge chain, and fast blocks don't usually help that issue. Our goal is faster blocks and a shorter chain. This is perhaps the most aggressive goal, and will require the most help to complete.</p>
+									
+								</div>
+							</div>
+						</li>
+						 <!-- Item 3 -->
+						<li>
+							<div class="timeline-image scaleReveal"><img alt="" class="img-circle img-responsive" src="images/timeline-5.png"></div>
+							<div class="timeline-panel leftReveal">
+								<div class="timeline-heading">
+									<h5 class="heading-1 mb15">TBA</h5>
+									<h4 class="subheading">Karai, Chain Application Ecosystem</h4>
+								</div>
+								<div class="timeline-body"> 
+									<p>Distributed, trustless networks have uses beyond currency. Karai is our goal for enabling distributed applications and networks beyond the blockchain.</p> 
+								</div>
+							</div>
+						</li>
+
+						<!-- Item 4 -->
+						<li class="timeline-inverted">
+							<div  class="timeline-image scaleReveal"><img alt="" class="img-circle img-responsive" src="images/timeline-6.png"></div>
+							<div class="timeline-panel rightReveal">
+								<div class="timeline-heading">
+									<h5 class="heading-1 mb15">TBA</h5>
+									<h4 class="subheading">TurtlePay Network</h4>
+								</div>
+								<div class="timeline-body">
+									<p>What good is a payment network if you can't transact when you need to? What good is an ATM if it isn't nearby? Tap-and-pay is yesterday; Tap-and-earn is tomorrow. Your nearest ATM is in your pocket.</p>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</section><!-- /.section -->
+	<!-- End Timeline -->
+
+	<!-- Begin Contact -->
+	<section id="contact" class="background2 section-padding">
+		<div class="container">
+			<div class="row mb30">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3 section-title text-center">
+					<h2>Still Interested?</h2>
+					<span class="section-divider mb15"></span>
+					<p class="no-margin scaleReveal">We need help! Join Us! No, seriously! Whatever your skill is, or what ideas you have, we are ready to hear about it!</p>
+					<h1><a href="http://chat.turtlecoin.lol">Join us on Discord</a></h1>
+					<h1><a href="http://github.turtlecoin.lol">Join us on GitHub</a></h1>
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+			<div class="row">
+
+
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</section><!-- /.section -->
+	<!-- End Contact -->
+
+	<!-- Begin Footer -->
+	<footer class="footer-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 col-sm-offset-2 text-center">
+					<h2 class="theme-title">Thank You.</h2>
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-8 col-sm-offset-2 text-small text-center">
+					<hr>
+					<button type="button" class="btn btn-primary btn-up-footer btn-lg scroll-top">Up</button>
+					<p class="no-margin">&copy; RockSteady, TurtleCoin Project</p>
+				</div><!-- /.column -->
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</footer><!-- /.footer -->
+	<!-- Begin Footer -->
+
+	<!-- Javascript Files -->
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<!--script type="text/javascript" src="js/particles.min.js"></script>
+	<script type="text/javascript" src="js/particlesRun.js"></script-->
+	<script type="text/javascript" src="js/jquery.mixitup.js"></script>
+	<script type="text/javascript" src="js/form-validator.min.js"></script>
+	<script type="text/javascript" src="js/jquery.inview.min.js"></script>
+	<script type="text/javascript" src="js/jquery.countTo.js"></script>
+	<script type="text/javascript">
+		/* ---- Counter (our count) ---- */
+		$('#ourcount').one('inview', function(event, isInView) {
+			if (isInView) {
+				$('.timer').countTo({speed: 3000});
+			}
+		});
+	</script>
+	<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+	<script type="text/javascript" src="js/scrollreveal.min.js"></script>
+	<script type="text/javascript" src="js/style-switcher.js"></script><!-- Remove for production -->
+	<script type="text/javascript" src="js/map.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
+
