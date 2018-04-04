@@ -1,0 +1,104 @@
+{
+    "navButtonDownload": "Download",
+    "navButtonFeatures": "Features",
+    "navButtonHome": "Home",
+    "navButtonRoadmap": "Roadmap",
+    "navButtonSpecs": "Specs",
+    "navButtonStory": "The Story",
+    "navButtonSupport": "Support",
+    "turtleCoinIsFast": "TurtleCoin is Fast",
+    "turtleCoinIsEasy": "TurtleCoin is Easy",
+    "turtleCoinIsSafe": "TurtleCoin is Safe",
+    "turtleDescriptionFullLine": "TurtleCoin is a fun, fast, and easy way to send money to friends and businesses.",
+    "turtleDescription" : [
+        "TurtleCoin is a fun, fast, and easy way to send money",
+        " to friends and businesses."
+    ],
+    "buildPlatforms": "We have builds for Windows, Apple, and Ubuntu Linux. ",
+    "ifYouPreferSourceCode": "If you prefer <strong>source code</strong>, you can find that <a href=\"https://github.com/turtlecoin/turtlecoin/\">here</a>, but you should also contact us <a href=\"http://chat.turtlecoin.lol\">here</a> because we're looking for people like you to join us.",
+    "selectYourSystem": "Select Your System",
+    "downloadLatest": "Download Latest",
+    "latestPlusGui": "Latest + GUI",
+    "cliDownload": "CLI Download",
+    "guiDownload": "GUI Download",
+    "funTurtleFacts": "Fun Turtle Facts",
+    "newExclamation": "NEW!",
+    "funFacts": [
+        "TurtleCoin has a 30 second block time, which means transactions confirm faster.",
+        "TurtleCoin has a private blockchain, nobody sees your money except you.",
+        "You can restore a deleted TurtleCoin wallet with your view key and spend key."
+    ],
+    "whyTurtleCoin": {
+        "heading": "Why TurtleCoin?",
+        "fastTransactions": {
+            "title": "Fast Transactions",
+            "description": "TurtleCoin is creating blocks every 30 seconds, as opposed to every 10 minutes. Your money travels 20x faster on TurtleCoin than on Bitcoin or BitcoinCash."
+        },
+        "privacy": {
+            "title": "Privacy",
+            "description": "TurtleCoin has the same privacy features you'll find in Monero and Aeon. Every transaction is private unless you choose to make it public."
+        },
+        "easyToUse": {
+            "title": "Easy To Use",
+            "description": "We support almost every OS, even on mobile you can <a href=\"http://turtlecoin.lol/wallet\">make a secured paper-wallet for free</a>, and get started with TurtleCoin in under 5 minutes."
+        },
+        "easyToMine": {
+            "title": "Easy To Mine",
+            "description": "TurtleCoin comes with its own basic CPU miner, but you can also use any Monero mining software you're used to if you'd rather use GPU's or mining pools. We recommend <a href=\"https://github.com/fireice-uk/xmr-stak/releases/latest\">XMR-Stak Unified Miner</a>."
+        },
+        "community": {
+            "title": "Community",
+            "description": "The TurtleCoin community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our <a href=\"http://chat.turtlecoin.lol\">Discord Chat</a>."
+        },
+        "support": {
+            "title": "Support",
+            "description": "We are growing a community of developers and testers in our <a href=\"http://meta.turtlecoin.lol\">GitHub meta-forum</a>. You can help by testing software and submitting bug reports, or even just cheering us on from the sidelines."
+        }
+    },
+    "theStory": "The Story",
+    "ourBackground": "Our Background",
+    "lusciousBeards": "Most TurtleCoin Contributors have thick, luscious beards. ",
+    "factUpper": "FACT.",
+    "plusXpChinStroke": "This gives us <strong>+10xp Chin Stroke</strong> abilities, and enhances our patience and diagnostic skills. ",
+    "fullTimeDevelopers": "The truth is, most of us are full-time developers on other projects, and this is our way to give back to the community with something fun.",
+    "oneChillyNight": "One chilly December night, RockSteady and Bebop were having a beer too many while discussing the madness around fake, flimsy ICOs with no product. Bebop surmised that it just wouldn't be possible to put out a real project now days without a serious team, doing serious marketing, and bringing in serious funding.",
+    "rockSteadyLeanedIn": "RockSteady leaned in closely, stroked his beard intently, and had only one response..",
+    "holdMyBeer": "Hold my beer.",
+    "turtleCoinWasBorn": "That night, December 9th, 2017, TurtleCoin was born.",
+    "why": "Why?",
+    "tooManyProjects": "Too many projects are bringing in <strong>too much funding</strong> despite most having <strong>no damn product</strong>. We figured, \"why not do the whole thing in reverse? Start with a fun project, make it as simple and accessible as possible, and let it grow on its own.\"",
+    "strongBelief": "We have a strong belief in our no-funding strategy; if we make a cool product, <strong>the value will create itself</strong>. If you think we're wrong, we're happy to <a href=\"http://meta.turtlecoin.lol\">talk</a> about it.",
+    "quote": "Quote",
+    "aWiseRatOnceSaid": "A wise rat once said, \"A turtle only moves forward by sticking his neck out..\"",
+    "theFinePrint": "The Fine Print",
+    "quickProjectDetails": "Here are some quick details about the project.",
+    "averageBlockReward": "Avg. Block Reward",
+    "oneBlockEvery": "1 Block every",
+    "seconds": "seconds",
+    "developers": "Developers",
+    "joinUs": " Join Us",
+    "joinUsOn": "Join us on",
+    "joinUsOnExample": "Join us on Discord",
+    "noPremine": "No Premine",
+    "noShenanigans": "No Shenanigans",
+    "roadmap": "Roadmap",
+    "quarterAbbreviation": "Q",
+    "quarterAbbreviationExample": "Q4 2017 means Quarter 4 of 2017",
+    "turtleCoinWasBorn": "TurtleCoin was born <strong>December 9th, 2017</strong>.",
+    "inTheBeginning": "In the beginning, we were command line only, compiled only for Linux, and got banned repeatedly from online forums for hosting flash TRTL giveaways.",
+    "guiWallets": "GUI Wallets",
+    "twoGraphicalWallets": "Two graphical wallets enter production testing, one written in Python with Glade from scratch, and the other, written in Xamarin.",
+    "followPythonWallet": "Follow Python Wallet",
+    "followXamarinWallet": "Follow Xamarin Wallet",
+    "marketPartnerships": "Market Partnerships",
+    "wePledged": "We pledged to have our TurtleCoins being publicly trading by Q2 2018, and we have now delivered on that promise. You can now trade TurtleCoin on 2 exchange markets and 1 OTC private market.",
+    "beginsDevelopment": "Begins development",
+    "mobiusFastBlocks": "Mobius, Fast Blocks No Sync",
+    "aBigHeadache": "A big headache with proof of work is syncing a huge chain, and fast blocks don't usually help that issue. Our goal is producing faster blocks on a shorter chain. This is perhaps the most aggressive goal, and will require the most help to complete.",
+    "toBeAnnounced": "TBA",
+    "simpleSmartContracts": "Simple Smart Contracts",
+    "distributedTrustlessNetworks": "Distributed, trustless networks have uses beyond currency. Karai is our goal for enabling distributed applications and networks beyond the main blockchain.",
+    "whatGoodIsAnAtm": "What good is an ATM if it isn't nearby? Tap-and-pay is yesterday; Tap-and-earn is tomorrow. Your nearest Crypto ATM is in your pocket.",
+    "questionStillInterested": "Still Interested?",
+    "weNeedHelp": "We need help! Join Us! No, seriously! Whatever your skill is, or what ideas you have, we are ready to hear about it!"
+}

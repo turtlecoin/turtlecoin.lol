@@ -140,11 +140,13 @@ $(document).ready(function() {
     $('.scroll-link').on('click', function(event){
         event.preventDefault();
         var sectionID = $(this).attr("data-id");
-        scrollToID('#' + sectionID, 750);
+        if (sectionID) {
+            scrollToID('#' + sectionID, 750);
+        }
     });
     $('.scroll-top').on('click', function(event) {
         event.preventDefault();
-        $('html, body').animate({scrollTop:0}, 1200);       
+        $('html, body').animate({scrollTop:0}, 1200);
     });
 });
 
@@ -206,10 +208,10 @@ $(document).on('click','.navbar-collapse.in',function(e) {
 });
 
 /* ---- rotater text ---- */
-var current = 1; 
-var height = jQuery('.ticker').height(); 
-var numberDivs = jQuery('.ticker').children().length; 
-var first = jQuery('.ticker h1:nth-child(1)'); 
+var current = 1;
+var height = jQuery('.ticker').height();
+var numberDivs = jQuery('.ticker').children().length;
+var first = jQuery('.ticker h1:nth-child(1)');
 setInterval(function() {
     var number = current * -height;
     first.css('margin-top', number + 'px');
