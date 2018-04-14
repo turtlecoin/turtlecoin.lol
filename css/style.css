@@ -230,7 +230,8 @@ button:hover,
 .text-switch { color: #fff; }
 
 .text-small {
-	font-size: 16px;
+	font-size: 15px;
+	margin: -15px;
 }
 
 .text-xs-small {
@@ -2030,5 +2031,5 @@ footer hr {
 }
 
 @media (max-width:640px){
-    .jumbotron p br { display:none; } 
+    .jumbotron p br { display:none; }
 }
