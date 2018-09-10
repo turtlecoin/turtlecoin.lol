@@ -20,6 +20,9 @@ languages: ["en", "af", "nl", "zh", "de", "es", "fr", "it", "hu", "pt-br", "ru"]
 # languages: ["en", "af", "pt-br", "ru", "zh", "de", "es", "fr", "it", "hu", "dev"] # enable during development to see text keys at /dev/
 
 language_names:
+  at:
+    short: at
+    full: Österreichisches Deutsch - Bayrisch
   af:
     short: af
     full: Afrikaans
