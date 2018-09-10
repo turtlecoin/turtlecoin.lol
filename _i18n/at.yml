@@ -1,0 +1,131 @@
+# Common
+contact:
+  interested: Immer nu interessiert?
+  need_help: Mia brauchan dei Unterstützung! Tret unsana Community bei! Was a imma deine Talente sand, oder wos für Ideen das'd a host, mia g'frein uns auf di!
+  discord: Tret unserm Discord-Chat bei
+  github: Moch mit auf unsana GitHub-Seitn
+  thank_you: Donksche!
+  scroll_up: Auffe
+
+navbar:
+  home: Startseitn
+  download: Download
+  features: Funktionen
+  story: Geschicht
+  specs: Technische Daten
+  roadmap: Fohrplan
+  support: Hilfe
+  toggle_navigation: Navigation umschoiten
+  resources: Ressourcen
+  resources_wiki: TurtleCoin Wiki
+  resources_blog: Entwickler-Blog
+  resources_dev_resources: Entwickler-Ressourcen
+  resources_brand: Markenrichtlinien
+
+
+# Pages
+
+# https://turtlecoin.lol/
+index_page:
+  meta:
+    description: TurtleCoin is a witzige Möglichkeit zum privat oder gschäftlich Geld voschicka. TurtleCoin is a von da Community entwickelte, quelloffene Kryptowährung, de ma unkompliziert minen und mit verschiedenen Wallets vowenden ko.
+    title: TurtleCoin.lol - TurtleCoin Witzige, Schnölle, und Oafache Kryptowährung.
+
+  # banner section
+  banner_is_fast: TurtleCoin is Schnöll
+  banner_is_easy: TurtleCoin is Oafoch
+  banner_is_safe: TurtleCoin is Sicha
+  banner_one_liner: TurtleCoin is a witzige Möglichkeit, zum privat oder gschäftlich Geld voschicka.
+  banner_download: Download
+  banner_builds: Mia hom Anwendungen für Windows, MacOS und Ubuntu Linux. Fois Du den <strong>Quellcode</strong> bevorzugst, kannst na <a href="https://github.com/turtlecoin/turtlecoin/">do</a> finden. Und wonst scho dabei bist, soltatst du uns <a href="http://chat.turtlecoin.lol">hier</a> kontaktieren. Denn nach Leit wia Dir suchen mia!
+
+  # download section
+  download_select_system: Suach dei Betriebssystem aus
+  download_latest: Neichaste Version obaloden
+  download_gui: Grafische Wallets obalodn
+  download_cli: Kommandozeilenanwendung obalodn
+
+  # fun facts section
+  fun_facts_title: Interessante TurtleCoin Fakten
+  fun_facts_1: TurtleCoin hod aBlockzeit vo 30 Sekunden, wodurch Transaktionen besunders schnöll bestätigt werdn.
+  fun_facts_2: TurtleCoin hod a private Blockchain. Koana außer Dir siagt Dei Goid.
+  fun_facts_3: Du kannst a glöschts TurtleCoin Wallet mit deim "View Key" und "Spend Key" wiederherstoin.
+
+  # why section
+  why_title: Worum TurtleCoin?
+  why_1_title: Schnoille Transaktionen
+  why_1: TurtleCoin erstoit alle 30 Sekunden an Block - im Gegensotz zu beispielsweise 10 Minuten, wia bei Bitcoin oder BitcoinCash. Dei Goid is bei TurtleCoin oiso 20-mal schnöller unterwegs.
+  why_2_title: Privatsphäre
+  why_2: TurtleCoin hod de gleichn Privätsphärefunktionen wia Monero und Aeon. Jede Transaktion is votraulich, außer Du soiber entscheidst Di dazu das öffentlich is.
+  why_3_title: Oafoche Benutzung
+  why_3: Mia unterstützen fost jeds Betriebssystem, sogor mobil kannst da kostenfrei a <a href="http://turtlecoin.lol/wallet">sichas Papierwallet</a> erstoin und mit TurtleCoin blitzschnöll loslegen.
+  why_4_title: Unkompliziert zum minen
+  why_4: TurtleCoin kimmt mit an eigenen oafochen CPU-Solo-Miner. Foist GPU- und Pool-Mining bevorzugst, kannst a jede ondane Mining-Software hernehma, de den Algorithmus Cryptonight-Lite Variante 1 kan. Mia empfoin den <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
+  why_5_title: Community
+  why_5: Die TurtleCoin Community is alle Nutzer und Entwickler gegenüber besunders offen. Du werst für koan Fehler angmeckert werdn und mir sand stets für jegliche Kritik offen. Tua mit und tret unserm <a href="http://chat.turtlecoin.lol">Discord-Chat</a> bei.
+  why_6_title: Unterstützung
+  why_6: Unser wachsende Gmeinschaft vo Entwickler und Testern findt se in <a href="http://meta.turtlecoin.lol">unserm GitHub Meta-Forum</a> zsam. Du kannst hoifn, indemst d'Software test und uns Bugs sogst, oder uns a oafach vom Spuifeldrand ofeierst.
+
+  # the story section
+  story_title: Geschicht
+  story_1: Unsa Hintergrund
+  story_2: De meisten TurtleCoin Entwickler hom longe, volle Bärte. <strong>FAKT.</strong></h3>
+  story_3: <em>Des voleiht uns <strong>+10xp Kinnkraul</strong> Fähigkeiten, und unterstützt damit unsare Geduld und Konzentration beim Coden. <i class="far fa-smile"></i></em>
+  story_4: D'Wohrheit is, dass fost olle vo uns Voizeitentwickler bei ondane Projekte sand und TurtleCoin unsa Art is, a da Community wos lustigs zurück z'geben.
+  story_5: Wie ois ogfongt hod
+  story_6: In oana koitn Dezembernocht hom RockSteady und Bebop a boa Bier z'vui gsoffn, daweis über den Wohnsinn fadenscheiniger ICOs ohne echte Produkte diskutiert hom. Bebop hod gmoant, dass heid fost nimmer möglich is a echts Projekt ohne fests Entwicklerteam, Marketingobteilung und Finanzierung auf d'Fiaß zum stoin.
+  story_7: RockSteady hot se viare gloant, durchn Bort gsricha und gsogt...
+  story_8: <strong>"Hoit mei Bier!"</strong>
+  story_9: In dera Nocht vom 9. Dezember 2017, isTurtleCoin auf d'Welt kema.
+  story_10: Worum?
+  story_11: Z'vui Projekte kriagen <strong>vui z'vui Goid</strong>, obwoi de meisten <strong>ned amoi a vodommts Produkt</strong> hom. Mia hom se denkt, "Warum des ned alles a amoi andersherum aufziagn? Mit an lustigen Projekt ofonga, es so oafoch und zugänglich wia mögli mocha und ansunst oafoch vo selba wachsen lossen."
+  story_12: Mia glaubn fest an unsane finanzierungsfreie Strategie. Won mia a cooles Produkt kreieren, wird der Wert ganz vo aloane entsteh. Du glaubst, mia lingan foisch? Dann loss uns gerne drüber <a href="http://meta.turtlecoin.lol">redn</a>.
+  story_13: A gscheider Ratz hod amoi gsogt, "A Schuildkrötn bewegt se nur nach vorn, wonns an Schädl aussa streckt..."
+  story_14: Zitat
+
+  # fine print section
+  fine_print_title: Des Kloadruckte
+  fine_print_1: Do a paar nähere Informationen über's Projekt.
+  fine_print_2: Durchschnittliche Block-Belohnung
+  fine_print_3: 1 Block olle<br> 30 Sekunden
+  fine_print_4: Entwickler <br> <a href="http://chat.turtlecoin.lol">Moch mit!</a>
+  fine_print_5: Koa Vorab-Mining <br>Koa g'Schummlad
+
+  # roadmap section
+  roadmap_title: Fohrplan
+  roadmap_1: Servus, Turtle
+  roadmap_2: TurtleCoin is am <strong>9. Dezember 2017</strong> geboren.
+  roadmap_3: Am Onfang hom ma nur a oanzige Linux-Kommandozeilenanwendung ghobt und sand regelmäßig wegen kostenlosen TRTL-Giveaways aus Foren gflogen.
+  roadmap_4: Grafische Wallets
+  roadmap_5: "Die TurtleCoin Community oabeit kontinuierlich und hart dran, dass des Nutzererlebnis von de voschiedenen grafischen Wallets und von da Kommandozeilenanwendung besser wird. Vom allerersten Tog an ham mia uns dazu vopflicht, d Nutzung vo TurtleCoin so oafach wi mögli zu gstalten - und des beginnt mit mindestens oana großortigen grafischen Wallet. Suach da oane der folgenden grafischen Wallets aus:"
+  roadmap_6: Partnerschaften mit Börsen
+  roadmap_7: Mir hom uns vorgnommen, dass TurtleCoin bis zum zweiten Quartal 2018 öffentlich ghandelt werdn ko. Des Ziel homma mit voschiedene Börsen erreicht.
+  roadmap_8: Entwicklung hod ogfongt, Q2 2018
+  roadmap_9: Möbius, Schnölle Blöck ohne Synchronisierung
+  roadmap_10: A groß Problem mit Proof-of-Work is de Synchronisierung vo gscheid lange Blockchains, bsunders bei kurze Blockzeiten. Unser Ziel is es, schnöllere Blöcke auf oana kürzern Blockchain zu produzieren. Des is vomutlich des aggressivste Ziel, des voraussichtlich a de meiste Unterstützung braucha werd.
+  roadmap_11: TBA (Ankündigung austandig)
+  roadmap_12: Karai, Simple Smart Contracts
+  roadmap_13: Voteilte, votrauensfreie Netzwerke werdn ned nur für Währungen gnutzt. Mit Karai verfoign mir des Ziel, verteilte Anwendungen obseits vo da Haupt-Blockchain möglich zum mocha.
+  roadmap_14: TurtlePay Netzwerk
+  roadmap_15: Wos bringt a Goidautomat, won er ned in da Nahtn is? Tippen und Zoin is vo gestern - tippen und vodeana is de Zukunft. Dei nächstglegner Crypto-Geldautomat in in Deiner Hosentaschen.
+
+
+# https://turtlecoin.lol/brand/
+brand_page:
+  meta:
+    description: TurtleCoin Markenhandbuch
+    title: TurtleCoin | Markenrichtlinien
+  why: Worum Richtlinien?
+  why_explanation: Mia glauben fest dran, dass jeder d'Möglichkeit haben soid, wundervolle Ideen mit und für TurtleCoin z'mocha. Für den Zweck homma a poar Richtlinien zsammgstoit, de a <strong>leichtes sowie kohärentes Vorgehen</strong> ermöglichen soin, eichane Projekte unter der Marke TurtleCoin umzusetzn.
+  download: Download
+  manual: TurtleCoin Markenhandbuch
+  latest_version: Neichaste Version
+  download_assets: Anlagen obalodn
+  contribute_on_github: Moch mit auf GitHub
+
+brand_page_navbar:
+  guidelines: Richtlinien
+  assets: Anlagen
+  join: Moch mit
+  back: Zruck zur Startseitn
+  
