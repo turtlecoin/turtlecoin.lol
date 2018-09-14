@@ -37,7 +37,7 @@ index_page:
   banner_is_safe: TurtleCoin ist Sicher
   banner_one_liner: TurtleCoin ist eine sichere, schnelle und einfache Möglichkeit, privat oder geschäftlich Geld zu versenden.
   banner_download: Download
-  banner_builds: Wir haben Anwendungen für Windows, MacOS und Ubuntu Linux. Falls Du den <strong>Quellcode</strong> bevorzugst, kannst du diesen <a href="https://github.com/turtlecoin/turtlecoin/">hier</a> finden. Und wenn Du schon dabei bist, solltest du uns <a href="http://chat.turtlecoin.lol">hier</a> kontaktieren. Denn nach Personen wie Dir suchen wir!
+  banner_builds: Wir haben Anwendungen für Windows, MacOS und Ubuntu Linux. Falls du den <strong>Quellcode</strong> brauchst, kannst du diesen <a href="https://github.com/turtlecoin/turtlecoin/">hier</a> finden. Und wenn du schon dabei bist, solltest du uns <a href="http://chat.turtlecoin.lol">hier</a> kontaktieren. Denn nach Personen wie Dir suchen wir!
 
   # download section
   download_select_system: Wähle dein Betriebssystem aus
@@ -54,7 +54,7 @@ index_page:
   # why section
   why_title: Warum TurtleCoin?
   why_1_title: Schnelle Transaktionen
-  why_1: TurtleCoin erstellt alle 30 Sekunden einen Block - im Gegensatz zu beispielsweise 10 Minuten, wie bei Bitcoin oder BitcoinCash. Dein Geld ist bei TurtleCoin also 20-mal schneller unterwegs.
+  why_1: TurtleCoin erstellt alle 30 Sekunden einen Block - im Gegensatz zu beispielsweise 10 Minuten, wie bei Bitcoin oder BitcoinCash, deswegen ist dein Geld bei TurtleCoin  20-mal schneller unterwegs.
   why_2_title: Privatsphäre
   why_2: TurtleCoin verwendet die gleichen Privätsphärefunktionen wie Monero und Aeon. Jede Transaktion ist vertraulich, außer du selbst entscheidest dich dazu, sie zu veröffentlichen.
   why_3_title: Einfache Benutzung
