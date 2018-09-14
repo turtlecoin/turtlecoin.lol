@@ -28,14 +28,14 @@ navbar:
 # https://turtlecoin.lol/
 index_page:
   meta:
-    description: TurtleCoin ist eine spaßige Möglichkeit, privat oder geschäftlich Geld zu versenden. TurtleCoin ist eine von der Community entwickelte, quelloffene Kryptowährung, welche unkompliziert zu minen ist und mit verschiedenen Wallets verwendet werden kann.
-    title: TurtleCoin.lol - TurtleCoin Spaßige, Schnelle, und Einfache Kryptowährung.
+    description: TurtleCoin ist eine sichere, schnelle und einfache Möglichkeit, privat oder geschäftlich Geld zu versenden. TurtleCoin ist eine von der Community entwickelte, quelloffene Kryptowährung, welche unkompliziert zu minen ist und mit verschiedenen Wallets verwendet werden kann.
+    title: TurtleCoin.lol - TurtleCoin sichere, schnelle und einfache Kryptowährung.
 
   # banner section
   banner_is_fast: TurtleCoin ist Schnell
   banner_is_easy: TurtleCoin ist Einfach
   banner_is_safe: TurtleCoin ist Sicher
-  banner_one_liner: TurtleCoin ist eine witzige Möglichkeit, privat oder geschäftlich Geld zu versenden.
+  banner_one_liner: TurtleCoin ist eine sichere, schnelle und einfache Möglichkeit, privat oder geschäftlich Geld zu versenden.
   banner_download: Download
   banner_builds: Wir haben Anwendungen für Windows, MacOS und Ubuntu Linux. Falls Du den <strong>Quellcode</strong> bevorzugst, kannst du diesen <a href="https://github.com/turtlecoin/turtlecoin/">hier</a> finden. Und wenn Du schon dabei bist, solltest du uns <a href="http://chat.turtlecoin.lol">hier</a> kontaktieren. Denn nach Personen wie Dir suchen wir!
 
@@ -56,7 +56,7 @@ index_page:
   why_1_title: Schnelle Transaktionen
   why_1: TurtleCoin erstellt alle 30 Sekunden einen Block - im Gegensatz zu beispielsweise 10 Minuten, wie bei Bitcoin oder BitcoinCash. Dein Geld ist bei TurtleCoin also 20-mal schneller unterwegs.
   why_2_title: Privatsphäre
-  why_2: TurtleCoin verwendet die gleichen Privätsphärefunktionen wie Monero und Aeon. Jede Transaktion ist vertraulich, außer Du selbst entscheidest Dich dazu, sie zu veröffentlichen.
+  why_2: TurtleCoin verwendet die gleichen Privätsphärefunktionen wie Monero und Aeon. Jede Transaktion ist vertraulich, außer du selbst entscheidest dich dazu, sie zu veröffentlichen.
   why_3_title: Einfache Benutzung
   why_3: Wir unterstützen nahezu jedes Betriebssystem, selbst mobil kannst Du kostenfrei ein <a href="http://turtlecoin.lol/wallet">sicheres Papierwallet</a> erstellen und mit TurtleCoin blitzschnell loslegen.
   why_4_title: Unkompliziert zu minen
