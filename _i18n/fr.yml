@@ -1,7 +1,7 @@
 # Common
 contact:
   interested: Toujours intéressé ?
-  need_help: Nous avons besoin d'aide ! Rejoignez-nous ! Non, vraiment ! Quelles que soient vos compétences, ou vos idées, nous sommes prêt à les entendre !
+  need_help: Nous avons besoin d'aide ! Rejoignez-nous ! Non, vraiment ! Quelles que soient vos compétences, ou vos idées, nous sommes prêts à les entendre !
   discord: Rejoignez-nous sur Discord
   github: Rejoignez-nous sur GitHub
   thank_you: Merci !
@@ -37,7 +37,7 @@ index_page:
   banner_is_safe: TurtleCoin est Sûr
   banner_one_liner: TurtleCoin est un moyen amusant, rapide et simple pour envoyer de l'argent à des amis ou pour le travail.
   banner_download: Téléchargement
-  banner_builds:  <strong> Nous avons des versions pour Windows, Apple et Ubuntu Linux. </strong> Si vous préférez le <strong>code source</strong>, vous pouvez le trouvez <a href="https://github.com/turtlecoin/turtlecoin/">ici </a>, mais vous pouvez aussi nous contacter <a href="http://chat.turtlecoin.lol">ici</a> car nous recherchons des gens comme vous.
+  banner_builds:  <strong> Nous avons des versions pour Windows, Apple et Ubuntu Linux. </strong> Si vous préférez le <strong>code source</strong>, vous pouvez le trouver <a href="https://github.com/turtlecoin/turtlecoin/">ici </a>, mais vous pouvez aussi nous contacter <a href="http://chat.turtlecoin.lol">ici</a> car nous sommes à la recherche de gens comme vous.
 
   # download section
   download_select_system: Choisissez votre Plateforme
@@ -47,22 +47,22 @@ index_page:
 
   # fun facts section
   fun_facts_title: Informations diverses sur les Turtles
-  fun_facts_1: TurtleCoin a un temps de blocage de 30 secondes, ce qui signifie que la confirmation des transactions est plus rapide.
+  fun_facts_1: TurtleCoin a un temps de création de blocs de 30 secondes, ce qui signifie que la confirmation des transactions est plus rapide.
   fun_facts_2: TurtleCoin a une blockchain privée, personne d'autre que vous ne peut voir votre monnaie.
   fun_facts_3: Vous pouvez restaurer un portefeuille TurtleCoin perdu avec votre clé publique et votre clé privée.
 
   # why section
   why_title: Pourquoi TurtleCoin ?
   why_1_title: Des transactions rapides
-  why_1: TurtleCoin créé des blocs toutes les 30 secondes, au lieu de toutes les 10 minutes. Votre monnaie circule 20x plus rapidement sur TurtleCoin que sur Bitcoin ou BitcoinCash.
+  why_1: TurtleCoin créé des blocs toutes les 30 secondes, au lieu de toutes les 10 minutes. Votre monnaie circule donc 20x plus rapidement avec TurtleCoin qu'avec Bitcoin ou BitcoinCash.
   why_2_title: Visibilité
-  why_2: TurtleCoin a les mêmes protection des données privées que Monero et Aeon. Toutes les transactions sont privées sauf si vous choisissez de les rendre publiques.
+  why_2: TurtleCoin a les mêmes protection des données privées que vous trouverez avec Monero et Aeon. Toutes les transactions sont privées sauf si vous choisissez de les rendre publiques.
   why_3_title: Facile d'emploi
-  why_3: Nous supportons tous les systèmes d'exploitations, même <a href="https://turtlecoin.lol/wallet">sur mobile vous pouvez créer un portefeuille sécurisé gratuitement</a> et commencer à utiliser TurtleCoin en moins de 5 minutes.
+  why_3: Nous supportons tous les systèmes d'exploitations, y compris <a href="https://turtlecoin.lol/wallet">sur mobile où vous pouvez créer un portefeuille sécurisé gratuitement</a> et commencer à utiliser TurtleCoin en moins de 5 minutes.
   why_4_title: Facile à Miner
-  why_4: TurtleCoin utilise son propre mineur sur CPU basique, mais vous pouvez aussi utiliser n'importe quel programme de minage de Monero auquel vous êtes habitués si vous préférez miner sur le GPU ou les mining pools. Nous recommendons <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner </a>.
+  why_4: TurtleCoin utilise son propre mineur sur CPU basique, mais vous pouvez aussi utiliser n'importe quel programme de minage de Monero auquel vous êtes habitués si vous préférez miner avec un GPU ou via les mining pools. Nous recommandons <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner </a>.
   why_5_title: Communauté
-  why_5: La communauté TurtleCoin est très ouverte aux utilisateurs et aux développeurs. Vous ne serez pas agressé si quelque chose se passe mal, et nous acceptons les critiques. Rejoignez-nous sur notre <a href="http://chat.turtlecoin.lol">serveur Discord</a>.
+  why_5: La communauté TurtleCoin est très ouverte aux utilisateurs et aux développeurs. Vous ne serez pas agressés si quelque chose se passe mal, et nous acceptons les critiques. Rejoignez-nous sur notre <a href="http://chat.turtlecoin.lol">serveur Discord</a>.
   why_6_title: Support
   why_6: Nous avons une communauté de développeurs et de testeurs sur notre <a href="http://meta.turtlecoin.lol">méta-forum GitHub</a>. Vous pouvez nous aider en testant les programmes et en envoyant des rapports de bugs, ou tout simplement en venant nous encourager.
 
@@ -80,14 +80,14 @@ index_page:
   story_10: Pourquoi ?
   story_11: Trop de projets embarquent un <strong>budget trop conséquent</strong> en dépit du fait qu'il n'ont <strong>même pas de foutu produit</strong>. Nous nous sommes dit "pourquoi ne pas faire l'inverse ? Faire un projet amusant, le rendre aussi simple et accessible que possible, et le laisser grandir par lui-même."
   story_12: Nous croyons beaucoup en cette stratégie sans budget; si nous pouvons faire un produit cool, <strong>sa valeur va se créer d'elle-même</strong>. Si vous pensez que nous nous trompons, nous serions ravi d'en <a href="http://meta.turtlecoin.lol">discuter</a>.
-  story_13: Un rat sage a dit une fois "La tortue ne peut avancer qu'on exposant sa tête..."
+  story_13: Un rat sage a dit une fois "La tortue ne va l'avant qu'en exposant sa tête..."
   story_14: Proverbe
 
   # fine print section
   fine_print_title: Les Petits Caractères
   fine_print_1: Voici quelques petits détails sur le projet.
   fine_print_2: Revenu de Block Moyen
-  fine_print_3: 1 block toutes les<br> 30 secondes
+  fine_print_3: 1 bloc toutes les<br> 30 secondes
   fine_print_4: Développeurs <br> <a href="http://chat.turtlecoin.lol">Rejoignez-nous</a>
   fine_print_5: Pas de préminage <br>Pas de manigances
 
