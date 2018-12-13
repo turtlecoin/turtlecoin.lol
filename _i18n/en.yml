@@ -28,12 +28,7 @@ navbar:
 # https://turtlecoin.lol/
 index_page:
   meta:
-    description: TurtleCoin is a fun way to send money 
-    
-    
-    
-    ly to friends or businesses. TurtleCoin is a community-developed, open source cryptocurrency that is easy to mine, and has a graphical wallet.
-    title: TurtleCoin.lol - TurtleCoin Fun, Fast, and Easy CryptoCurrency.
+    description: TurtleCoin is a fun way to send money privately to friends or businesses. TurtleCoin is a community-developed, open source cryptocurrency that is easy to mine, and has a graphical wallet.
 
   # banner section
   banner_is_fast: TurtleCoin is Fast
