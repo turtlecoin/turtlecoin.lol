@@ -48,17 +48,17 @@ index_page:
   # fun facts section
   fun_facts_title: Vtipné TURTLE fakty
   fun_facts_1: TurtleCoin má 30vteřinové bloky, což zaručuje velmi rychlé transakce.
-  fun_facts_2: TurtleCoin má soukromý blockchain, nikdo tedy nevidí tvoje peníze.
-  fun_facts_3: Smazanou peněženku můžeš jednoduše obnovit pomocí spend a view klíčů.
+  fun_facts_2: TurtleCoin má neveřejný blockchain, nikdo tedy nevidí tvoje peníze.
+  fun_facts_3: Smazanou peněženku můžete jednoduše obnovit pomocí spend a view klíčů.
 
   # why section
   why_title: Proč TurtleCoin?
   why_1_title: Rychlé transakce
-  why_1: TurtleCoin tvoří bloky každých 30 vteřin oproti klasickým 10 minutám. Tvoje peníze tak putují 20x rychleji než u Bitcoinu nebo BitcoinCash.
+  why_1: TurtleCoin tvoří bloky každých 30 vteřin oproti klasickým 10 minutám. Vaše peníze tak putují 20x rychleji než u Bitcoinu nebo BitcoinCash.
   why_2_title: Soukromí
   why_2: TurtleCoin má stejné privátní funknce jako Monero nebo a Aeon. Každá transakce je privátní, pokud se ji nerozhodnete zveřejnit.
   why_3_title: Lehce se používá
-  why_3: Máme podporu pro téměř každý operační systém a i na mobilu si můžete <a href="https://turtlecoin.lol/wallet">vytvořit papírovou peněženku zdarma</a>, a začít s TurtleCoinem za méně, než 5 minut.
+  why_3: Máme podporu pro téměř každý operační systém a i na mobilu si můžete <a href="https://turtlecoin.lol/wallet">vytvořit papírovou peněženku zdarma</a> a začít s TurtleCoinem za méně, než 5 minut.
   why_4_title: Lehce se těží
   why_4: TurtleCoin má svůj vlastní těžební program pro CPU. Pokud dáváte přednost těžbě na GPU, můžete použít jakýkoliv jiný pro Monero. Doporučujeme <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
   why_5_title: Komunita
@@ -70,7 +70,7 @@ index_page:
   story_title: Příběh
   story_1: Kdo za tím stojí?
   story_2: Většina TurtleCoin přispěvatelů má hustý a na dotek příjemný plnovous. <strong>FACT.</strong></h3>
-  story_3: <em>Díky tomu máme do schopnosti <strong>Promnutí vousu</strong>+10xp, která zlepšuje naše diagnostické schopnosti a naši vytrvalost. <i class="far fa-smile"></i></em>
+  story_3: <em>Díky tomu máme do schopnosti <strong>Promnutí vousu</strong> +10xp, která zlepšuje naše diagnostické schopnosti a naši vytrvalost. <i class="far fa-smile"></i></em>
   story_4: Většina z nás jsou developeři na plný úvazek na jiných projektech a toto je náš způsob, jak dát komunitě něco zpět s pořádnou dávkou zábavy.
   story_5: Jak to celé začalo?
   story_6: Jednoho prosincového, mrazivého večera seděli RockSteady a Bebop nad džbánem piva. Už ani nevěděli, kolikáté mají díky bujné diskuzi o šílenství kolem falešných ICO bez reálného produktu. Bebop nadhodil, že v dnešních dnech už ani není možné přijít s pořádným projektem bez velkého týmu, pořádného marketingu a hromadou peněz.
