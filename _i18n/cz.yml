@@ -83,31 +83,30 @@ index_page:
   story_14: Quote
 
   # fine print section
-  fine_print_title: The Fine Print
-  fine_print_1: Here are some quick details about the project.
-  fine_print_2: Avg. Block Reward
-  fine_print_3: 1 Block every<br> 30 seconds
-  fine_print_4: Developers <br> <a href="http://chat.turtlecoin.lol">Join Us</a>
-  fine_print_5: No Premine <br>No Shenanigans
-
+  fine_print_title: Tiskařský um
+  fine_print_1: V rychlosti pár detailů o projektu.
+  fine_print_2: Prům. odměna za blok
+  fine_print_3: 1 block každých<br> 30 vteřin
+  fine_print_4: Developerů <br> <a href="http://chat.turtlecoin.lol">Přidejte se</a>
+  fine_print_5: Žádný premine <br>Žádné nepravosti.
   # roadmap section
-  roadmap_title: Roadmap
-  roadmap_1: Hello Turtle
-  roadmap_2: TurtleCoin was born <strong>December 9th, 2017</strong>.
-  roadmap_3: In the beginning, we were command line only, compiled only for Linux, and got banned repeatedly from online forums for hosting flash TRTL giveaways.
-  roadmap_4: GUI Wallets
-  roadmap_5: "TurtleCoin Community has been hard at work to bring us a diverse graphical experience, as well as refreshing the command line wallet also. From day one, we've been committed to making TurtleCoin easier, and that starts with a good GUI. Take your pick of one of the following wallets:"
-  roadmap_6: Market Partnerships
-  roadmap_7: We pledged to have our TurtleCoins being publicly trading by Q2 2018, and we have accomplished that goal in several markets.
-  roadmap_8: Development Started, Q2 2018
-  roadmap_9: Mobius, Fast Blocks No Sync
-  roadmap_10: A big headache with proof of work is syncing a huge chain, and fast blocks don't usually help that issue. Our goal is producing faster blocks on a shorter chain. This is perhaps the most aggressive goal, and will require the most help to complete.
+  roadmap_title: Roadmapa
+  roadmap_1: Ahoj Turtle
+  roadmap_2: TurtleCoin vznikl <strong>12. prosince, 2017</strong>.
+  roadmap_3: Na počátku jsme měli jen příkazovou řádku a jeli pouze na Linuxu a banovali nás dokola na všech fórech za TRTL giveawaye.
+  roadmap_4: GUI peněženky
+  roadmap_5: "TurtleCoin komunita makala na tom, aby uživatelům přinesla grafickou podobu peněženky, ale zároveň zachovala i klasiku v podobě příkazové řádky. Od prvního dne jsme se zavázali udělat TurtleCoin co nejjednodušší a to se neobejte bez dobrého GUI. Zkuste jednu z našich peněženek:"
+  roadmap_6: Partnerství s trhem
+  roadmap_7: Zavázali jsme se, že se TurtleCoin bude veřeně obchodovat do Q2 2018 a to se nám také podařilo a a na vícero trhách.
+  roadmap_8: Vývoj nastartován, Q2 2018
+  roadmap_9: Mobius, rychlé bloky bez synchronizace
+  roadmap_10: Největší oříšek v systému proof of work je synchronizace obrovzského řetězce a rychlé bloky tomu zrovna dvakrát nepomáhají. Naším cílem je dále tvořit rychlé bloky na kratším řetězci. Jde dost možná o náš největší cíl, se kterým budeme potřebovat nejvíc píchnout.
   roadmap_11: TBA
-  roadmap_12: Karai, Simple Smart Contracts
-  roadmap_13: Distributed, trustless networks have uses beyond currency. Karai is our goal for enabling distributed applications and networks beyond the main blockchain.
-  roadmap_14: TurtlePay Network
-  roadmap_15: What good is an ATM if it isn't nearby? Tap-and-pay is yesterday; Tap-and-earn is tomorrow. Your nearest Crypto ATM is in your pocket.
-  roadmap_16: Development Started, Q3 2018
+  roadmap_12: Karai, Jednodcuhé Smart Contracty
+  roadmap_13: Distribuované trustless sítě mají vícero využití daleko za pouhé možnosti měn. Karai je náš plán pro rozjetí distribuovaných aplikací a sítí mimo hlavní blockchain.
+  roadmap_14: TurtlePay síť
+  roadmap_15: K čemu je vlastně bankomat, když není poblíž? Přilož a zaplať patří včerejšku; přílož a vydělej je hudbou zítřka. Tvůj crypto bankomat ve tvé kapse.
+  roadmap_16: Vývoj započat, Q3 2018
 
 # https://turtlecoin.lol/brand/
 brand_page:
