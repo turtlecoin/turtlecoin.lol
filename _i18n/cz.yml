@@ -57,7 +57,7 @@ index_page:
   why_2_title: Soukromí
   why_2: TurtleCoin má stejné privátní funknce jako Monero nebo a Aeon. Každá transakce je privátní, pokud se ji nerozhodnete zveřejnit.
   why_3_title: Lehce se používá
-  why_3: We support almost every OS, even on mobile you can <a href="https://turtlecoin.lol/wallet">make a secured paper-wallet for free</a>, and get started with TurtleCoin in under 5 minutes.
+  why_3: Máme podporu pro téměř každý operační systém a i na mobilu si můžete<a href="https://turtlecoin.lol/wallet">vytvořit papírovou peněženku zdarma</a>, a začít s TurtleCoinem za méně, než 5 minut.
   why_4_title: Easy To Mine
   why_4: TurtleCoin comes with its own basic CPU miner, but you can also use any Monero mining software you're used to if you'd rather use GPU's or mining pools. We recommend <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
   why_5_title: Community
