@@ -30,6 +30,7 @@ index_page:
   meta:
     description: TurtleCoin je vtipný způsob, jak posílat peníze mezi přáteli, nebo v rámci obchodu. TurtleCoin je open-source kryptoměna tvořená komunitou. Je snadno těžitelná a má vlastní peněženku s graickým prostředím.
     title: TurtleCoin.lol - TurtleCoin je źábavná, rychlá a jednoduchá kryptoměna.
+    
   # banner section
   banner_is_fast: TurtleCoin je rychlý
   banner_is_easy: TurtleCoin je jednoduchý
@@ -37,6 +38,7 @@ index_page:
   banner_one_liner: TurtleCoin je zábavný způsob, jak posílat peníze mezi přáteli <br/> i v rámci obchodu.
   banner_download: Ke stažení
   banner_builds: <strong>Máme verzi pro Windows, Apple, i Ubuntu. </strong>Pokud dáváte přednost <strong>zdrojovému kódu</strong>, najdete ho <a href="https://github.com/turtlecoin/turtlecoin/">zde</a>, ale přidejte se k nám i <a href="http://chat.turtlecoin.lol">tady</a>, hledáme možná právě vás.
+  
   # download section
   download_select_system: Vyberte operační systém
   download_latest: Stáhnout nejnovější
