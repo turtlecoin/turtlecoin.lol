@@ -1,10 +1,10 @@
 # Common
 contact:
-  interested: Chytlo tě to?
-  need_help: Hledáme pomoc! Připojte se! Ne, vážně! Je jedno, co umíte nebo jaké máte nápady! Ať je to cokoliv, zajímá nás to! 
+  interested: Nadchli jsme vás?
+  need_help: Hledáme pomoc! Připojte se. Ne, vážně! Je jedno, co umíte nebo jaké máte nápady! Ať je to cokoliv, zajímá nás to! 
   discord: Připojte se na Discord
   github: Přidejte se k nám na Githubu
-  thank_you: Děkujeme!
+  thank_you: Děkujeme.
   scroll_up: Nahoru
 
 navbar:
@@ -69,18 +69,18 @@ index_page:
   # the story section
   story_title: Příběh
   story_1: Kdo za tím stojí?
-  story_2: Většina TurtleCoin přispěvatelů má hustý a na dotek příjemný plnovous. <strong>FACT.</strong></h3>
-  story_3: <em>Díky tomu máme do schopnosti <strong>Promnutí vousu</strong> +10xp, která zlepšuje naše diagnostické schopnosti a naši vytrvalost. <i class="far fa-smile"></i></em>
+  story_2: Většina TurtleCoin přispěvatelů má hustý a na dotek příjemný plnovous. <strong>A TO JE FAKT.</strong></h3>
+  story_3: <em>Díky tomu máme ve schopnosti <strong>Promnutí vousu</strong> +10xp, která zlepšuje náš diagnostický skill a naši vytrvalost. <i class="far fa-smile"></i></em>
   story_4: Většina z nás jsou developeři na plný úvazek na jiných projektech a toto je náš způsob, jak dát komunitě něco zpět s pořádnou dávkou zábavy.
   story_5: Jak to celé začalo?
-  story_6: Jednoho prosincového, mrazivého večera seděli RockSteady a Bebop nad džbánem piva. Už ani nevěděli, kolikáté mají díky bujné diskuzi o šílenství kolem falešných ICO bez reálného produktu. Bebop nadhodil, že v dnešních dnech už ani není možné přijít s pořádným projektem bez velkého týmu, pořádného marketingu a hromadou peněz.
+  story_6: Jednoho prosincového, mrazivého večera seděli RockSteady a Bebop nad džbánem piva. Už ani nevěděli, kolikáté mají, díky bujné diskuzi o šílenství kolem falešných ICO bez reálného produktu. Bebop nadhodil, že v dnešních dnech už ani není možné přijít s pořádným projektem bez velkého týmu, pořádného marketingu a hromady peněz.
   story_7: RockSteady se opřel o stůl, promnul si plnovous a prohlásil...
   story_8: <strong>"Podrž mi pivo."</strong>
   story_9: Tu noc, 9. prosince 2017 vznikl TurtleCoin.
   story_10: A Proč?
   story_11: Až moc projektů vybírá <strong>až moc peněz</strong> přestože většina z nich nemá <strong>vůbec žádný produkt</strong>. Řekli jsme si, Co takhle to udělat obráceně? Začneme jen tak ze srandy, uděláme to co nejjednodušší pro všechny, a uvidíme, jak to dopadne.
   story_12: Jsme pevně přesvědčeni o naší strategii, ve které nepotřebujeme vybírat žádné finanční prostředky a pokud se nám povede vytvořit kvalitní projekt, <strong>trh to sám ocení</strong>. Pokud si myslíte, že jsme vedle, rádi od vás <a href="http://meta.turtlecoin.lol">uslyšíme</a> proč.
-  story_13: Jak jednou jedna chytrá krysa pravila "Želva se pohybuje dopředu jen tehdy, když vystrčí svůj krk z krunýře"
+  story_13: Jak jednou jedna chytrá krysa pravila "Želva se pohybuje dopředu jen tehdy, když vystrčí hlavu z krunýře"
   story_14: Citace
 
   # fine print section
@@ -94,19 +94,19 @@ index_page:
   roadmap_title: Roadmapa
   roadmap_1: Ahoj Turtle
   roadmap_2: TurtleCoin vznikl <strong>12. prosince, 2017</strong>.
-  roadmap_3: Na počátku jsme měli jen příkazovou řádku a jeli pouze na Linuxu a banovali nás dokola na všech fórech za TRTL giveawaye.
+  roadmap_3: Na počátku jsme měli jen příkazový řádek a jeli pouze na Linuxu a banovali nás dokola na všech fórech za TRTL giveawaye.
   roadmap_4: GUI peněženky
-  roadmap_5: "TurtleCoin komunita makala na tom, aby uživatelům přinesla grafickou podobu peněženky, ale zároveň zachovala i klasiku v podobě příkazové řádky. Od prvního dne jsme se zavázali udělat TurtleCoin co nejjednodušší a to se neobejte bez dobrého GUI. Zkuste jednu z našich peněženek:"
+  roadmap_5: "TurtleCoin komunita makala na tom, aby uživatelům přinesla grafickou podobu peněženky, ale zároveň zachovala i klasiku v podobě příkazového řádku. Od prvního dne jsme se zavázali udělat TurtleCoin co nejjednodušší a to se neobejde bez dobrého GUI. Zkuste jednu z našich peněženek:"
   roadmap_6: Partnerství s trhem
   roadmap_7: Zavázali jsme se, že se TurtleCoin bude veřeně obchodovat do Q2 2018 a to se nám také podařilo na více místech.
   roadmap_8: Vývoj nastartován, Q2 2018
   roadmap_9: Mobius, rychlé bloky bez synchronizace
-  roadmap_10: Největší oříšek v systému proof of work je synchronizace obrovzského řetězce a rychlé bloky tomu zrovna dvakrát nepomáhají. Naším cílem je dále tvořit rychlé bloky na kratším řetězci. Jde dost možná o náš největší cíl, se kterým budeme potřebovat nejvíc píchnout.
+  roadmap_10: Největší oříšek v systému proof of work je synchronizace obrovského řetězce a rychlé bloky tomu zrovna dvakrát nepomáhají. Naším cílem je dál tvořit rychlé bloky na kratším řetězci. Jde dost možná o náš největší cíl, se kterým budeme potřebovat nejvíc píchnout.
   roadmap_11: TBA
-  roadmap_12: Karai, Jednodcuhé Smart Contracty
-  roadmap_13: Distribuované trustless sítě mají vícero využití daleko za pouhé možnosti kryptoměn. Karai je náš plán pro rozjetí distribuovaných aplikací a sítí mimo hlavní blockchain.
+  roadmap_12: Karai, Jednoduché Smart Contracty
+  roadmap_13: Distribuované trustless sítě mají vícero využití daleko nad pouhé možnosti kryptoměn. Karai je náš plán pro rozjezd distribuovaných aplikací a sítí mimo hlavní blockchain.
   roadmap_14: TurtlePay síť
-  roadmap_15: K čemu je vlastně bankomat, když není po ruce? Kontaktní platy patří včerejšku; bezkontaktní přijímání peněz je hudbou zítřka. Tvůj krypto bankomat ve tvé kapse.
+  roadmap_15: K čemu je vlastně bankomat, když není po ruce? Kontaktní platby patří včerejšku; bezkontaktní přijímání peněz je hudbou zítřka. Tvůj krypto bankomat ve tvé kapse.
   roadmap_16: Vývoj započat, Q3 2018
 
 # https://turtlecoin.lol/brand/
