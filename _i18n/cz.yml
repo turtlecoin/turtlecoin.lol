@@ -111,18 +111,18 @@ index_page:
 # https://turtlecoin.lol/brand/
 brand_page:
   meta:
-    description: TurtleCoin Brand Manual
-    title: TurtleCoin | Brand Guidelines
-  why: Why Guidelines?
-  why_explanation: We firmly believe that anyone should have access to create wonderful things in and with TurtleCoin. For that purpose, a set of guidelines has been created to keep a cohesive and strong, yet <strong>friendly and easy to approach</strong> way for people to express their ideas with the TurtleCoin brand.
-  download: Download
-  manual: TurtleCoin Brand Manual
-  latest_version: Latest Version
-  download_assets: Download assets
-  contribute_on_github: Contribute on GitHub
+    description: Pokyny k brandu TurtleCoinu
+    title: TurtleCoin | Pokyny k brandu
+  why: Proč vlastně pokyny ?
+  why_explanation: Věříme, že každý by měl mít možnost tvořit úžasné věci v a na TurtleCoinu. Pro tyto případy jsme jsme vytvořili správné pokyny, pro <strong>jednoduchou a snadnou cestu</strong> jak umožnit vyjádřit lidem své nápady pod TurtleCoin brandem.
+  download: Ke stažení
+  manual: TurtleCoin Brand návod
+  latest_version: Poslední verze
+  download_assets: Stáhnout materiály
+  contribute_on_github: Přispět na GitHubu
 
 brand_page_navbar:
-  guidelines: Guidelines
-  assets: Assets
-  join: Join Us
-  back: Back to Main
+  guidelines: Pokyny
+  assets: Materiály
+  join: Přidej se
+  back: Zpátky na začátek
