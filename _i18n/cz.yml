@@ -39,16 +39,16 @@ index_page:
   banner_builds: <strong>Máme verze pro Windows, Apple, a Ubuntu. </strong>Pokud dáváte přednost <strong>zdrojovému kódu</strong>, najdete ho na:<a href="https://github.com/turtlecoin/turtlecoin/">here</a>, ale měli byste se k nám přidat i <a href="http://chat.turtlecoin.lol">tady</a> protože hledáme přesně lidi, jako jsi ty!
 
   # download section
-  download_select_system: Select Your System
-  download_latest: Download Latest
-  download_gui: Download GUI
-  download_cli: Download CLI
+  download_select_system: Vyberte operační systém
+  download_latest: Stáhnout nejnovější
+  download_gui: Stáhnout GUI
+  download_cli: Stáhnout CLI
 
   # fun facts section
-  fun_facts_title: Fun Turtle Facts
-  fun_facts_1: TurtleCoin has a 30 second block time, which means transactions confirm faster.
-  fun_facts_2: TurtleCoin has a private blockchain, nobody sees your money except you.
-  fun_facts_3: You can restore a deleted TurtleCoin wallet with your view key and spend key.
+  fun_facts_title: Vtipné TURTLE fakty
+  fun_facts_1: TurtleCoin má 30. vteřinové bloky, což znamená velmi rychlé transakce.
+  fun_facts_2: TurtleCoin má soukromý blockchain, nikdo tedy nevidí tvoje peníze.
+  fun_facts_3: Smazanou peněženku můžete jednoduše obnovit pomoci spend a view klíče.
 
   # why section
   why_title: Why TurtleCoin?
