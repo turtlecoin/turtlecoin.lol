@@ -1,26 +1,26 @@
 # Common
 contact:
   interested: Chytlo tě to?
-  need_help: We need help! Join Us! No, seriously! Whatever your skill is, or what ideas you have, we are ready to hear about it!
-  discord: Join us on Discord
-  github: Join us on GitHub
+  need_help: Hledáme pomoc! Připoj se! Ne, vážně! Je jedno, co umíš nebo jaký máš nápady! Ať je to cokoliv, zajímá nás to! 
+  discord: Připojte se na Discord
+  github: Přidejte se k nám na Githubu
   thank_you: Thank You!
-  scroll_up: Up
+  scroll_up: Nahoru
 
 navbar:
-  home: Home
-  download: Download
-  features: Features
-  story: The Story
-  specs: Specs
-  roadmap: Roadmap
-  support: Support
-  toggle_navigation: Toggle Navigation
-  resources: Resources
+  home: Domů
+  download: Ke stažení
+  features: Funkce
+  story: Příběh
+  specs: Secifikace
+  roadmap: Roadmapa
+  support: Podpora
+  toggle_navigation: Navigace
+  resources: Zdoje
   resources_wiki: TurtleCoin Wiki
-  resources_blog: Developer Blog
-  resources_dev_resources: Developer Resources
-  resources_brand: Brand Guidelines
+  resources_blog: Blog developerů
+  resources_dev_resources: Zdroje pro developery
+  resources_brand: Pokyny brandu
 
 
 # Pages
@@ -28,9 +28,8 @@ navbar:
 # https://turtlecoin.lol/
 index_page:
   meta:
-    description: TurtleCoin is a fun way to send money privately to friends or businesses. TurtleCoin is a community-developed, open source cryptocurrency that is easy to mine, and has a graphical wallet.
-    title: TurtleCoin.lol - TurtleCoin Fun, Fast, and Easy CryptoCurrency.
-
+    description: TurtleCoin je vtipný způsob, jak posílat peníze mezi přáteli, nebo v rámci obchodu. TurtleCoin je open-source kryptoměna tvořená komunitou. Je snadno těžitelná a má vlastní peněženku s graickým prostředím.
+    title: TurtleCoin.lol - TurtleCoin je źábavná, rychlá a jednoduchá kryptoměna.
   # banner section
   banner_is_fast: TurtleCoin is Fast
   banner_is_easy: TurtleCoin is Easy
