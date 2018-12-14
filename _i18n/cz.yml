@@ -58,12 +58,12 @@ index_page:
   why_2: TurtleCoin má stejné privátní funknce jako Monero nebo a Aeon. Každá transakce je privátní, pokud se ji nerozhodnete zveřejnit.
   why_3_title: Lehce se používá
   why_3: Máme podporu pro téměř každý operační systém a i na mobilu si můžete<a href="https://turtlecoin.lol/wallet">vytvořit papírovou peněženku zdarma</a>, a začít s TurtleCoinem za méně, než 5 minut.
-  why_4_title: Easy To Mine
-  why_4: TurtleCoin comes with its own basic CPU miner, but you can also use any Monero mining software you're used to if you'd rather use GPU's or mining pools. We recommend <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
-  why_5_title: Community
-  why_5: The TurtleCoin community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our <a href="http://chat.turtlecoin.lol">Discord Chat</a>.
-  why_6_title: Support
-  why_6: We are growing a community of developers and testers in our <a href="http://meta.turtlecoin.lol">GitHub meta-forum</a>. You can help by testing software and submitting bug reports, or even just cheering us on from the sidelines.
+  why_4_title: Lehce se těží
+  why_4: TurtleCoin má svůj vlastní těžební program pro CPU, ale pokud raději těžíte na GPU, můžete použít jakýkoliv jiný pro Monero. Doporučujeme <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
+  why_5_title: Komunita
+  why_5: TurtleCoin komunita ráda vítá nové uživatele a vývojáře. Nikdo vám nebude nadávat pokud něco pokazíte a rádi uvidíme i kritiky naší práce. Přijdtě za námi na náš <a href="http://chat.turtlecoin.lol">Discord</a>.
+  why_6_title: Podpora
+  why_6: Naše rychle rostoucí komunitu developerů a testerů najdete na <a href="http://meta.turtlecoin.lol">GitHub meta-forum</a>. Můžete nám pomoci hledat bugy a nebo nám prostě jen tak fandit.
 
   # the story section
   story_title: The Story
