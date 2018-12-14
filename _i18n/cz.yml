@@ -4,7 +4,7 @@ contact:
   need_help: Hledáme pomoc! Připoj se! Ne, vážně! Je jedno, co umíš nebo jaký máš nápady! Ať je to cokoliv, zajímá nás to! 
   discord: Připojte se na Discord
   github: Přidejte se k nám na Githubu
-  thank_you: Thank You!
+  thank_you: Děkujeme!
   scroll_up: Nahoru
 
 navbar:
@@ -31,12 +31,12 @@ index_page:
     description: TurtleCoin je vtipný způsob, jak posílat peníze mezi přáteli, nebo v rámci obchodu. TurtleCoin je open-source kryptoměna tvořená komunitou. Je snadno těžitelná a má vlastní peněženku s graickým prostředím.
     title: TurtleCoin.lol - TurtleCoin je źábavná, rychlá a jednoduchá kryptoměna.
   # banner section
-  banner_is_fast: TurtleCoin is Fast
-  banner_is_easy: TurtleCoin is Easy
-  banner_is_safe: TurtleCoin is Safe
-  banner_one_liner: TurtleCoin is a fun, fast, and easy way to send money <br/> to friends and businesses.
-  banner_download: Download
-  banner_builds: <strong>We have builds for Windows, Apple, and Ubuntu Linux. </strong>If you prefer <strong>source code</strong>, you can find that <a href="https://github.com/turtlecoin/turtlecoin/">here</a>, but you should also contact us <a href="http://chat.turtlecoin.lol">here</a> because we're looking for people like you to join us.
+  banner_is_fast: TurtleCoin je rychlý
+  banner_is_easy: TurtleCoin je jednoduchý
+  banner_is_safe: TurtleCoin je bezpečný
+  banner_one_liner: TurtleCoin je vtipný způsob, jak posílat peníze mezi přáteli, <br/> nebo v rámci obchodu.
+  banner_download: Ke stažení
+  banner_builds: <strong>Máme verze pro Windows, Apple, a Ubuntu. </strong>Pokud dáváte přednost <strong>zdrojovému kódu</strong>, najdete ho na:<a href="https://github.com/turtlecoin/turtlecoin/">here</a>, ale měli byste se k nám přidat i <a href="http://chat.turtlecoin.lol">tady</a> protože hledáme přesně lidi, jako jsi ty!
 
   # download section
   download_select_system: Select Your System
