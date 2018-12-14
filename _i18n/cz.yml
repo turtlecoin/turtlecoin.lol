@@ -46,17 +46,17 @@ index_page:
 
   # fun facts section
   fun_facts_title: Vtipné TURTLE fakty
-  fun_facts_1: TurtleCoin má 30. vteřinové bloky, což znamená velmi rychlé transakce.
+  fun_facts_1: TurtleCoin má 30vteřinové bloky, což zaručuje velmi rychlé transakce.
   fun_facts_2: TurtleCoin má soukromý blockchain, nikdo tedy nevidí tvoje peníze.
-  fun_facts_3: Smazanou peněženku můžete jednoduše obnovit pomoci spend a view klíče.
+  fun_facts_3: Smazanou peněženku můžeš jednoduše obnovit pomocí spend a view klíčů.
 
   # why section
-  why_title: Why TurtleCoin?
-  why_1_title: Fast Transactions
-  why_1: TurtleCoin is creating blocks every 30 seconds, as opposed to every 10 minutes. Your money travels 20x faster on TurtleCoin than on Bitcoin or BitcoinCash.
-  why_2_title: Privacy
-  why_2: TurtleCoin has the same privacy features you'll find in Monero and Aeon. Every transaction is private unless you choose to make it public.
-  why_3_title: Easy To Use
+  why_title: Proč TurtleCoin?
+  why_1_title: Rychlé transakce
+  why_1: TurtleCoin tvoří bloky každých 30 vteřin oproti klasickým 10 minutám. Tvoje peníze tak putují 20x rychleji než u Bitcoinu nebo BitcoinCash.
+  why_2_title: Soukromí
+  why_2: TurtleCoin má stejné privátní funknce jako Monero nebo a Aeon. Každá transakce je privátní, pokud se ji nerozhodnete zveřejnit.
+  why_3_title: Lehce se používá
   why_3: We support almost every OS, even on mobile you can <a href="https://turtlecoin.lol/wallet">make a secured paper-wallet for free</a>, and get started with TurtleCoin in under 5 minutes.
   why_4_title: Easy To Mine
   why_4: TurtleCoin comes with its own basic CPU miner, but you can also use any Monero mining software you're used to if you'd rather use GPU's or mining pools. We recommend <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
