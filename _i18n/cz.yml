@@ -1,7 +1,7 @@
 # Common
 contact:
   interested: Chytlo tě to?
-  need_help: Hledáme pomoc! Připoj se! Ne, vážně! Je jedno, co umíš nebo jaký máš nápady! Ať je to cokoliv, zajímá nás to! 
+  need_help: Hledáme pomoc! Připojte se! Ne, vážně! Je jedno, co umíte nebo jaké máte nápady! Ať je to cokoliv, zajímá nás to! 
   discord: Připojte se na Discord
   github: Přidejte se k nám na Githubu
   thank_you: Děkujeme!
@@ -84,10 +84,10 @@ index_page:
   story_14: Citace
 
   # fine print section
-  fine_print_title: Tiskařský um
+  fine_print_title: Poznámka pod čarou
   fine_print_1: V rychlosti pár detailů o projektu.
   fine_print_2: Prům. odměna za blok
-  fine_print_3: 1 block každých<br> 30 vteřin
+  fine_print_3: 1 blok každých <br> 30 vteřin
   fine_print_4: Developerů <br> <a href="http://chat.turtlecoin.lol">Přidejte se</a>
   fine_print_5: Žádný premine <br>Žádné nepravosti.
   # roadmap section
@@ -98,15 +98,15 @@ index_page:
   roadmap_4: GUI peněženky
   roadmap_5: "TurtleCoin komunita makala na tom, aby uživatelům přinesla grafickou podobu peněženky, ale zároveň zachovala i klasiku v podobě příkazové řádky. Od prvního dne jsme se zavázali udělat TurtleCoin co nejjednodušší a to se neobejte bez dobrého GUI. Zkuste jednu z našich peněženek:"
   roadmap_6: Partnerství s trhem
-  roadmap_7: Zavázali jsme se, že se TurtleCoin bude veřeně obchodovat do Q2 2018 a to se nám také podařilo a a na vícero trhách.
+  roadmap_7: Zavázali jsme se, že se TurtleCoin bude veřeně obchodovat do Q2 2018 a to se nám také podařilo na více místech.
   roadmap_8: Vývoj nastartován, Q2 2018
   roadmap_9: Mobius, rychlé bloky bez synchronizace
   roadmap_10: Největší oříšek v systému proof of work je synchronizace obrovzského řetězce a rychlé bloky tomu zrovna dvakrát nepomáhají. Naším cílem je dále tvořit rychlé bloky na kratším řetězci. Jde dost možná o náš největší cíl, se kterým budeme potřebovat nejvíc píchnout.
   roadmap_11: TBA
   roadmap_12: Karai, Jednodcuhé Smart Contracty
-  roadmap_13: Distribuované trustless sítě mají vícero využití daleko za pouhé možnosti měn. Karai je náš plán pro rozjetí distribuovaných aplikací a sítí mimo hlavní blockchain.
+  roadmap_13: Distribuované trustless sítě mají vícero využití daleko za pouhé možnosti kryptoměn. Karai je náš plán pro rozjetí distribuovaných aplikací a sítí mimo hlavní blockchain.
   roadmap_14: TurtlePay síť
-  roadmap_15: K čemu je vlastně bankomat, když není poblíž? Přilož a zaplať patří včerejšku; přílož a vydělej je hudbou zítřka. Tvůj crypto bankomat ve tvé kapse.
+  roadmap_15: K čemu je vlastně bankomat, když není po ruce? Kontaktní platy patří včerejšku; bezkontaktní přijímání peněz je hudbou zítřka. Tvůj krypto bankomat ve tvé kapse.
   roadmap_16: Vývoj započat, Q3 2018
 
 # https://turtlecoin.lol/brand/
