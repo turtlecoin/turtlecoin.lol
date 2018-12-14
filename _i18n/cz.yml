@@ -58,11 +58,11 @@ index_page:
   why_2_title: Soukromí
   why_2: TurtleCoin má stejné privátní funkce jako Monero nebo Aeon. Každá transakce je privátní, pokud se ji nerozhodnete zveřejnit.
   why_3_title: Lehce se používá
-  why_3: Máme podporu pro téměř každý operační systém. <a href="https://turtlecoin.lol/wallet">Papírovou peněženku zdarma</a> si vytvoříte i na mobilu a začít s TurtleCoinem můžete tak do 5 minut.
+  why_3: Máme podporu pro téměř každý operační systém. <a href="https://turtlecoin.lol/wallet">Papírovou peněženku zdarma</a> si vytvoříte i na mobilu a začít s TurtleCoinem tak můžete do 5 minut.
   why_4_title: Lehce se těží
   why_4: TurtleCoin má svůj vlastní těžební program pro CPU. Pokud dáváte přednost těžbě na GPU, můžete použít jakýkoliv jiný pro Monero. Doporučujeme <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
   why_5_title: Komunita
-  why_5: TurtleCoin komunita ráda přivítá nové uživatele a vývojáře. Nikdo vám nebude nadávat pokud něco pokazíte a rádi probereme i kritiku naší práce. Přijďte za námi na náš <a href="http://chat.turtlecoin.lol">Discord</a>.
+  why_5: TurtleCoin komunita ráda přivítá nové uživatele a vývojáře. Nikdo vám nebude nadávat, pokud něco pokazíte a rádi probereme i kritiku naší práce. Přijďte za námi na náš <a href="http://chat.turtlecoin.lol">Discord</a>.
   why_6_title: Podpora
   why_6: Naši rychle rostoucí komunitu developerů a testerů najdete na <a href="http://meta.turtlecoin.lol">GitHub meta-foru</a>. Můžete nám pomoct hledat bugy a nebo nám prostě jen tak fandit.
 
@@ -76,7 +76,7 @@ index_page:
   story_6: Jednoho prosincového, mrazivého večera seděli RockSteady a Bebop nad džbánem piva. Už ani nevěděli, kolikáté mají, díky bujné diskuzi o šílenství kolem falešných ICO bez reálného produktu. Bebop nadhodil, že v dnešních dnech už ani není možné přijít s pořádným projektem bez velkého týmu, pořádného marketingu a hromady peněz.
   story_7: RockSteady se opřel o stůl, promnul si plnovous a prohlásil...
   story_8: <strong>"Podrž mi pivo."</strong>
-  story_9: Tu noc, 9. prosince 2017 vznikl TurtleCoin.
+  story_9: Tu noc, 9. prosince 2017, vznikl TurtleCoin.
   story_10: A Proč?
   story_11: Až moc projektů vybírá <strong>až moc peněz</strong> přestože většina z nich nemá <strong>vůbec žádný produkt</strong>. Řekli jsme si, Co takhle to udělat obráceně? Začneme jen tak ze srandy, uděláme to co nejjednodušší pro všechny, a uvidíme, jak to dopadne.
   story_12: Jsme pevně přesvědčeni o naší strategii, ve které nepotřebujeme vybírat žádné finanční prostředky a pokud se nám povede vytvořit kvalitní projekt, <strong>trh to sám ocení</strong>. Pokud si myslíte, že jsme vedle, rádi od vás <a href="http://meta.turtlecoin.lol">uslyšíme</a> proč.
@@ -104,7 +104,7 @@ index_page:
   roadmap_10: Největší oříšek v systému proof of work je synchronizace obrovského řetězce a rychlé bloky tomu zrovna dvakrát nepomáhají. Naším cílem je dál tvořit rychlé bloky na kratším řetězci. Jde dost možná o náš největší cíl, se kterým budeme potřebovat nejvíc píchnout.
   roadmap_11: TBA
   roadmap_12: Karai, Jednoduché Smart Contracty
-  roadmap_13: Distribuované trustless sítě mají vícero využití daleko nad pouhé možnosti kryptoměn. Karai je náš plán pro rozjezd distribuovaných aplikací a sítí mimo hlavní blockchain.
+  roadmap_13: Distribuované trustless sítě mají vícero využití daleko nad rámec kryptoměn. Karai je náš plán pro rozjezd distribuovaných aplikací a sítí mimo hlavní blockchain.
   roadmap_14: TurtlePay síť
   roadmap_15: K čemu je vlastně bankomat, když není po ruce? Kontaktní platby patří včerejšku; bezkontaktní přijímání peněz je hudbou zítřka. Tvůj krypto bankomat ve tvé kapse.
   roadmap_16: Vývoj započat, Q3 2018
