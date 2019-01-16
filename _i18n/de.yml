@@ -42,7 +42,7 @@ index_page:
   # download section
   download_select_system: Wähle dein Betriebssystem aus
   download_latest: Neueste Version herunterladen
-  download_gui: Grafisches Wallet (GUI)
+  download_gui: Grafische Wallet (GUI)
   download_cli: Kommandozeilenanwendung (CLI)
 
   # fun facts section
@@ -97,7 +97,7 @@ index_page:
   roadmap_2: TurtleCoin wurde am <strong>9. Dezember 2017</strong> geboren.
   roadmap_3: Am Anfang hatten wir nur eine einzige Linux-Kommandozeilenanwendung und wurden regelmäßig aufgrund von kostenlosen TRTL-Giveaways aus Foren gebannt.
   roadmap_4: Grafische Wallets (GUI)
-  roadmap_5: "Die TurtleCoin Community arbeitet kontinuierlich daran, das Nutzererlebnis sowohl der grafischen Wallets, als auch Kommandozeilenanwendung zu verbessern. Vom allerersten Tag an haben wir uns vorgenommen, die Nutzung von TurtleCoin so einfach wie möglich zu gestalten - und dies beginnt mit mindestens einem großartigen GUI-Wallet. Wähle aus einem der folgenden Wallets aus:"
+  roadmap_5: "Die TurtleCoin Community arbeitet kontinuierlich daran, das Nutzererlebnis sowohl der grafischen Wallets, als auch der Kommandozeilenanwendung zu verbessern. Vom allerersten Tag an haben wir uns vorgenommen, die Nutzung von TurtleCoin so einfach wie möglich zu gestalten - und dies beginnt mit mindestens einer großartigen GUI-Wallet. Wähle aus einer der folgenden Wallets aus:"
   roadmap_6: Partnerschaften mit Börsen
   roadmap_7: Wir hatten uns vorgenommen, dass TurtleCoin bis zum zweiten Quartal 2018 öffentlich gehandelt werden kann. Dieses Ziel haben wir mit mehreren Börsen erreicht.
   roadmap_8: Entwicklung hat begonnen, Q2 2018
