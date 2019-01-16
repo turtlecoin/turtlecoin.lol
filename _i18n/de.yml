@@ -1,7 +1,7 @@
 # Common
 contact:
   interested: Immer noch interessiert?
-  need_help: Wir brauchen Deine Unterstützung! Trete unserer Community bei! Was auch immer Deine Fähigkeiten sind, oder was für Ideen Du auch hast, wir freuen uns auf Dich!
+  need_help: Wir brauchen deine Unterstützung! Trete unserer Community bei! Was auch immer deine Fähigkeiten sind, oder was für Ideen du auch hast, wir freuen uns auf dich!
   discord: Trete unserem Discord-Chat bei
   github: Mach mit auf unserer GitHub-Seite
   thank_you: Vielen Dank!
@@ -29,7 +29,7 @@ navbar:
 index_page:
   meta:
     description: TurtleCoin ist eine sichere, schnelle und einfache Möglichkeit, privat oder geschäftlich Geld zu versenden. TurtleCoin ist eine von der Community entwickelte, quelloffene Kryptowährung, welche unkompliziert zu minen ist und mit verschiedenen Wallets verwendet werden kann.
-    title: TurtleCoin.lol - TurtleCoin sichere, schnelle und einfache Kryptowährung.
+    title: TurtleCoin.lol - TurtleCoin Sichere, Schnelle und Einfache Kryptowährung.
 
   # banner section
   banner_is_fast: TurtleCoin ist Schnell
@@ -37,32 +37,32 @@ index_page:
   banner_is_safe: TurtleCoin ist Sicher
   banner_one_liner: TurtleCoin ist eine sichere, schnelle und einfache Möglichkeit, privat oder geschäftlich Geld zu versenden.
   banner_download: Download
-  banner_builds: Wir haben Anwendungen für Windows, MacOS und Ubuntu Linux. Falls du den <strong>Quellcode</strong> brauchst, kannst du diesen <a href="https://github.com/turtlecoin/turtlecoin/">hier</a> finden. Und wenn du schon dabei bist, solltest du uns <a href="http://chat.turtlecoin.lol">hier</a> kontaktieren. Denn nach Personen wie Dir suchen wir!
+  banner_builds: Wir haben Anwendungen für Windows, MacOS und Ubuntu Linux. Falls du den <strong>Quellcode</strong> brauchst, kannst du diesen <a href="https://github.com/turtlecoin/turtlecoin/">hier</a> finden. Und wenn du schon dabei bist, solltest du uns <a href="http://chat.turtlecoin.lol">hier</a> kontaktieren. Denn wir suchen genau nach solchen Leuten wie dir!
 
   # download section
   download_select_system: Wähle dein Betriebssystem aus
   download_latest: Neueste Version herunterladen
-  download_gui: Grafische Wallets herunterladen
-  download_cli: Kommandozeilenanwendung herunterladen
+  download_gui: Grafisches Wallet (GUI)
+  download_cli: Kommandozeilenanwendung (CLI)
 
   # fun facts section
-  fun_facts_title: Interessante TurtleCoin Fakten
+  fun_facts_title: Interessante TurtleCoin-Fakten
   fun_facts_1: TurtleCoin hat eine Blockzeit von 30 Sekunden, wodurch Transaktionen besonders schnell bestätigt werden.
-  fun_facts_2: TurtleCoin verwendet eine private Blockchain. Dadurch sieht niemand außer Dir Dein Geld.
+  fun_facts_2: TurtleCoin verwendet eine private Blockchain. Dadurch sieht niemand außer dir Dein Geld.
   fun_facts_3: Du kannst ein gelöschtes TurtleCoin Wallet mit deinem "View Key" und "Spend Key" wiederherstellen.
 
   # why section
   why_title: Warum TurtleCoin?
   why_1_title: Schnelle Transaktionen
-  why_1: TurtleCoin erstellt alle 30 Sekunden einen Block - im Gegensatz zu beispielsweise 10 Minuten, wie bei Bitcoin oder BitcoinCash, deswegen ist dein Geld bei TurtleCoin  20-mal schneller unterwegs.
+  why_1: TurtleCoin erstellt alle 30 Sekunden einen Block - im Gegensatz zu beispielsweise 10 Minuten, wie bei Bitcoin oder BitcoinCash. Dadurch ist dein Geld bei TurtleCoin 20-mal schneller unterwegs.
   why_2_title: Privatsphäre
-  why_2: TurtleCoin verwendet die gleichen Privätsphärefunktionen wie Monero und Aeon. Jede Transaktion ist vertraulich, außer du selbst entscheidest dich dazu, sie zu veröffentlichen.
+  why_2: TurtleCoin verwendet die gleichen Privätsphärefunktionen wie Monero und Aeon. Jede Transaktion ist standardmäßig vertraulich.
   why_3_title: Einfache Benutzung
-  why_3: Wir unterstützen nahezu jedes Betriebssystem, selbst mobil kannst Du kostenfrei ein <a href="http://turtlecoin.lol/wallet">sicheres Papierwallet</a> erstellen und mit TurtleCoin blitzschnell loslegen.
+  why_3: Wir unterstützen nahezu jedes Betriebssystem, selbst mobil kannst du kostenfrei ein <a href="http://turtlecoin.lol/wallet">sicheres Papierwallet</a> erstellen und mit TurtleCoin in unter 5 Minuten loslegen.
   why_4_title: Unkompliziert zu minen
-  why_4: TurtleCoin kommt mit einem eigenen einfachen CPU-Solo-Miner. Falls Du GPU- und Pool-Mining bevorzugst, kannst Du auch jede andere Mining-Software verwenden, die den Algorithmus Cryptonight-Lite Variante 1 unterstützt. Wir empfehlen den <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
+  why_4: TurtleCoin kommt mit einem eigenen einfachen CPU-Solo-Miner. Falls du GPU- und Pool-Mining bevorzugst, kannst Du auch jede andere Monero-Mining-Software verwenden. Wir empfehlen den <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
   why_5_title: Community
-  why_5: Die TurtleCoin Community ist allen Nutzern und Entwickeln gegenüber besonders offen. Du wirst für keinen Fehler angemeckert und wir sind stets für jegliche Kritik offen. Mach mit und trete unserem <a href="http://chat.turtlecoin.lol">Discord-Chat</a> bei.
+  why_5: Die TurtleCoin Community ist allen Nutzern und Entwicklern gegenüber besonders offen. Du wirst für keinen Fehler angemeckert und wir sind stets für jegliche Kritik offen. Mach mit und trete unserem <a href="http://chat.turtlecoin.lol">Discord-Chat</a> bei.
   why_6_title: Unterstützung
   why_6: Unsere wachsende Gemeinschaft von Entwicklern und Testern findet sich in <a href="http://meta.turtlecoin.lol">unserem GitHub Meta-Forum</a> zusammen. Du kannst helfen, indem du die Software testest und uns Bugs mitteilst, oder uns auch einfach vom Spielfeldrand anfeuerst.
 
@@ -96,19 +96,19 @@ index_page:
   roadmap_1: Hallo, Turtle
   roadmap_2: TurtleCoin wurde am <strong>9. Dezember 2017</strong> geboren.
   roadmap_3: Am Anfang hatten wir nur eine einzige Linux-Kommandozeilenanwendung und wurden regelmäßig aufgrund von kostenlosen TRTL-Giveaways aus Foren gebannt.
-  roadmap_4: Grafische Wallets
-  roadmap_5: "Die TurtleCoin Community arbeitet kontinuierlich und hart daran, das Nutzererlebnis der verschiedenen grafischen Wallets und der Kommandozeilenanwendung zu verbessern. Vom allerersten Tag an haben wir uns dazu verpflichtet, die Nutzung von TurtleCoin so einfach wie möglich zu gestalten - und dies beginnt mit mindestens einer großartigen grafischen Wallet. Wähle aus einer der folgenden grafischen Wallets aus:"
+  roadmap_4: Grafische Wallets (GUI)
+  roadmap_5: Die TurtleCoin Community arbeitet kontinuierlich daran, das Nutzererlebnis sowohl der grafischen Wallets, als auch Kommandozeilenanwendung zu verbessern. Vom allerersten Tag an haben wir uns vorgenommen, die Nutzung von TurtleCoin so einfach wie möglich zu gestalten - und dies beginnt mit mindestens einem großartigen GUI-Wallet. Wähle aus einem der folgenden Wallets aus:
   roadmap_6: Partnerschaften mit Börsen
-  roadmap_7: Wir hatten uns vorgenommen, dass TurtleCoin bis zum zweiten Quartal 2018 öffentlich gehandelt werden kann. Dieses Ziel haben wir mit verschiedenen Börsen erreicht.
+  roadmap_7: Wir hatten uns vorgenommen, dass TurtleCoin bis zum zweiten Quartal 2018 öffentlich gehandelt werden kann. Dieses Ziel haben wir mit mehreren Börsen erreicht.
   roadmap_8: Entwicklung hat begonnen, Q2 2018
-  roadmap_9: Möbius, Schnelle Blöcke ohne Synchronisierung
+  roadmap_9: Mobius, Schnelle Blöcke ohne Synchronisierung
   roadmap_10: Ein großes Problem mit Proof-of-Work ist die Synchronisierung von sehr langen Blockchains, insbesondere bei kurzen Blockzeiten. Unser Ziel ist es, schnellere Blöcke auf einer kürzeren Blockchain zu produzieren. Dies ist vermutlich das aggressivste Ziel, welches voraussichtlich auch die größte Unterstützung benötigen wird.
   roadmap_11: TBA (Ankündigung ausstehend)
   roadmap_12: Karai, Simple Smart Contracts
-  roadmap_13: Verteilte, vertrauensfreie Netzwerke werden nicht nur für Währungen genutzt. Mit Karai verfolgen wir das Ziel, verteilte Anwendungen abseits der Haupt-Blockchain zu ermöglichen.
+  roadmap_13: Verteilte, vertrauensfreie Netzwerke werden nicht nur für Währungen genutzt. Mit Karai verfolgen wir das Ziel, verteilte Anwendungen und Netzwerke abseits der Haupt-Blockchain zu ermöglichen.
   roadmap_14: Zahlungsintegrationsdienste
-  roadmap_15: TurtleCoin-Zahlungsintegrationsdienste für Entwickler, Entwickler und Entwickler. Das Akzeptieren von TurtleCoin in Ihrer Anwendung ist einfacher als je zuvor.
-  roadmap_16: Gestartetes Q1 2019
+  roadmap_15: TurtleCoin-Zahlungsintegrationsdienste von Entwicklern für Entwickler. Das Akzeptieren von TurtleCoin in Ihrer Anwendung ist hiermit einfacher als je zuvor.
+  roadmap_16: Eingeführt Q1 2019
 
 # https://turtlecoin.lol/brand/
 brand_page:
