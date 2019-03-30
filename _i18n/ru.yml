@@ -94,9 +94,9 @@ index_page:
   fine_print_1: Несколько маленьких деталей о нашем проекте.
   fine_print_2: Средняя награда за блок
   fine_print_3: 1 блок каждые<br> 30 секунд
-  fine_print_4: Разработчиков, <br> <a href="http://chat.turtlecoin.lol">Присоединяйтесь</a>
+  fine_print_4: Разработчики, <br> <a href="http://chat.turtlecoin.lol">Присоединяйтесь</a>
   fine_print_5: Без премайна <br>Без обмана и махинаций
-  #Там циферка, ов, разработчиков. И "премайнинг" не звучит, имхо
+  #"премайнинг" не звучит, имхо
   
   # roadmap section
   roadmap_title: Roadmap
