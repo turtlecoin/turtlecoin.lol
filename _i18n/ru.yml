@@ -41,7 +41,7 @@ index_page:
   banner_one_liner: TurtleCoin - это интересный способ отправить деньги инкогнито  <br/> своим друзьям или коллегам.
   banner_download: Скачать
   #Здесь здесь, тавтология какаят. Убрал
-  banner_builds: <strong>У нас есть приложения для Windows, MacOS, и Linux. </strong>Если вы предпочитаете собирать из <strong>исходников</strong> сами, вы можете найти их  <a href="https://github.com/turtlecoin/turtlecoin/">здесь</a>, также вы можете связаться с нами <a href="http://chat.turtlecoin.lol">тут</a>, потому что мы ищем соратников.
+  banner_builds: <strong>У нас есть приложения для Windows, MacOS, и Linux. </strong>Если вы предпочитаете собирать из <strong>исходников</strong> сами, вы можете найти их <a href="https://github.com/turtlecoin/turtlecoin/">здесь</a>, также вы можете связаться с нами <a href="http://chat.turtlecoin.lol">тут</a>, потому что мы ищем соратников.
 
   # download section
   download_select_system: Выберите вашу ОС
