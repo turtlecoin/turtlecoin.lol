@@ -40,7 +40,8 @@ index_page:
   banner_is_safe: TurtleCoin безопасный
   banner_one_liner: TurtleCoin - это интересный способ отправить деньги инкогнито  <br/> своим друзьям или коллегам.
   banner_download: Скачать
-  banner_builds: <strong>У нас есть приложения для Windows, MacOS, и Linux. </strong>Если вы предпочитаете собирать из <strong>исходников</strong> сами, вы можете найти их здесь <a href="https://github.com/turtlecoin/turtlecoin/">here</a>, также вы можете связаться с нами здесь <a href="http://chat.turtlecoin.lol">here</a> потому что мы ищем соратников.
+  #Здесь здесь, тавтология какаят. Убрал
+  banner_builds: <strong>У нас есть приложения для Windows, MacOS, и Linux. </strong>Если вы предпочитаете собирать из <strong>исходников</strong> сами, вы можете найти их  <a href="https://github.com/turtlecoin/turtlecoin/">здесь</a>, также вы можете связаться с нами <a href="http://chat.turtlecoin.lol">тут</a>, потому что мы ищем соратников.
 
   # download section
   download_select_system: Выберите вашу ОС
@@ -74,7 +75,7 @@ index_page:
   story_title: История
   story_1: Наш опыт
   story_2: Большинство разработчиков TurtleCoin имеют толстые бородки. <strong>Это факт</strong></h3>
-  story_3: <em>Это дает нам<strong>+10 к поглаживанию подрородка</strong>, и улучшает наши навыки терпения и поиска ошибок. <i class="far fa-smile"></i></em>
+  story_3: <em>Это дает нам <strong>+10 к поглаживанию подрородка</strong>, и улучшает наши навыки терпения и поиска ошибок. <i class="far fa-smile"></i></em>
   story_4: По правде говоря, большинство из нас - разработчики на полную ставку в других проектах, и это наш способ дать обществу что-то забавное и интересное.
   story_5: Как мы это начали
   story_6: Одной холодной декабрьской ночью RockSteady и Bebop слишком много выпили, пока обсуждали ситуацию вокруг фейковых ICO, не имеющих конечного продукта. Bebop высказал догадку, что сейчас невозможно запустить стоящий проект без серьезной команды, маркетинга и инвестиций со стороны.
@@ -93,9 +94,10 @@ index_page:
   fine_print_1: Несколько маленьких деталей о нашем проекте.
   fine_print_2: Средняя награда за блок
   fine_print_3: 1 блок каждые<br> 30 секунд
-  fine_print_4: Разработчики, <br> <a href="http://chat.turtlecoin.lol">Присоединяйтесь</a>
-  fine_print_5: Без премайнинга <br>Без обмана и махинаций
-
+  fine_print_4: Разработчиков, <br> <a href="http://chat.turtlecoin.lol">Присоединяйтесь</a>
+  fine_print_5: Без премайна <br>Без обмана и махинаций
+  #Там циферка, ов, разработчиков. И "премайнинг" не звучит, имхо
+  
   # roadmap section
   roadmap_title: Roadmap
   roadmap_1: Здравствуй Черепаха
