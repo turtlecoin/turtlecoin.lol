@@ -44,6 +44,8 @@ index_page:
   download_latest: Stáhnout nejnovější
   download_gui: Stáhnout GUI
   download_cli: Stáhnout CLI
+  download_ton_chan: Stáhnout TonChan
+
 
   # fun facts section
   fun_facts_title: Fakta

@@ -44,6 +44,7 @@ index_page:
   download_latest: Descargue la última version
   download_gui: Descargar GUI (Visual)
   download_cli: Descarga CLI
+  download_ton_chan: Descarga TonChan
 
   # fun facts section
   fun_facts_title: Datos divertidos de TurtleCoin

@@ -44,6 +44,7 @@ index_page:
   download_latest: Neichaste Version obaloden
   download_gui: Grafische Wallets obalodn
   download_cli: Kommandozeilenanwendung obalodn
+  download_ton_chan: Download TonChan
 
   # fun facts section
   fun_facts_title: Interessante TurtleCoin Fakten

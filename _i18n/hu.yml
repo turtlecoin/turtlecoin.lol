@@ -44,6 +44,7 @@ index_page:
   download_latest: Legfrissebb letöltése
   download_gui: GUI letöltése
   download_cli: CLI letöltése
+  download_ton_chan: TonChan letöltése
 
   # fun facts section
   fun_facts_title: TurtleCoin érdekességek

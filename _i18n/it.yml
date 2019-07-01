@@ -44,6 +44,7 @@ index_page:
   download_latest: Scarica l'ultima versione
   download_gui: Scarica GUI
   download_cli: Scarica CLI
+  download_ton_chan: Scarica TonChan
 
   # fun facts section
   fun_facts_title: Informazioni su Turtle

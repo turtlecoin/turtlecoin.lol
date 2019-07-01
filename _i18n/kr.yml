@@ -44,6 +44,7 @@ index_page:
   download_latest: 최신 다운로드
   download_gui: GUI 다운로드
   download_cli: CLI 다운로드
+  download_ton_chan: TonChan 다운로드
 
   # fun facts section
   fun_facts_title: 재밌는 Turtle 이야기

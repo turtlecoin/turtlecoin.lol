@@ -47,6 +47,7 @@ index_page:
   download_latest: Скачать последнюю сборку
   download_gui: Скачать графический клиент (GUI)
   download_cli: Скачать CLI
+  download_ton_chan: Скачать TonChan
 
   # fun facts section
   fun_facts_title: Интересные факты о черепахах

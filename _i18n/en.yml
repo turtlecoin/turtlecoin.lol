@@ -43,6 +43,7 @@ index_page:
   download_latest: Download Latest
   download_gui: Download GUI
   download_cli: Download CLI
+  download_ton_chan: Download TonChan
 
   # fun facts section
   fun_facts_title: Fun Turtle Facts

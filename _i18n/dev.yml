@@ -38,6 +38,7 @@ index_page:
   download_latest: index_page.download_latest
   download_gui: index_page.download_gui
   download_cli: index_page.download_cli
+  download_ton_chan: index_page.download_ton_chan
 
   # fun facts section
   fun_facts_title: fun_facts_title
