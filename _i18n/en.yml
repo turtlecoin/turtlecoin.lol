@@ -29,6 +29,7 @@ navbar:
 index_page:
   meta:
     description: TurtleCoin is a fun way to send money privately to friends or businesses. TurtleCoin is a community-developed, open source cryptocurrency that is easy to mine, and has a graphical wallet.
+    title: TurtleCoin.lol: A Fun, Fast, and Easy Way to Send Money To Friends and Businesses
 
   # banner section
   banner_is_fast: TurtleCoin is Fast
