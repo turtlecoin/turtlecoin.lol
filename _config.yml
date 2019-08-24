@@ -11,7 +11,7 @@ exclude:
  - .bundle
  - vendor
 
-gems:
+plugins:
  - jekyll-multiple-languages-plugin
 
 
