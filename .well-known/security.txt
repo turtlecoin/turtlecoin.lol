@@ -1,0 +1,7 @@
+Contact: https://chat.turtlecoin.lol
+Contact: https://twitter.com/_turtlecoin
+Contact: https://keybase.io/turtlecoin
+
+Policy: In case of vulnerability please visit our Discord and report in #dev_general. Eventually DM via Twitter or join our secondary channel on Keybase.io
+
+Preferred-Languages: en
