@@ -52,6 +52,7 @@ All translations live in the `_i18n` folder.
 
 * Afrikaans: [@jacojvv](https://github.com/jacojvv), [@Reinsie44](https://github.com/Reinsie44)
 * Chinese: [@sbc-trtl](https://github.com/sbc-trtl), `@sdyu ges`
+* Czech: [@Elkim](https://github.com/elkimek), [@LeoStehlik](https://github.com/LeoStehlik), [@TurtlesHill](https://github.com/TurtlesiHill)
 * Deutsch: [@encryptedunicorn](https://github.com/encryptedunicorn), [@hurrdurrnein](https://github.com/hurrdurrnein), [@armitage0](https://github.com/armitage0)
 * Español: [@euricanti](https://github.com/euricanti), [@mrrovot](https://github.com/mrrovot), [@adj-gh](https://github.com/adj-gh), [@SrWhiteRD](https://github.com/SrWhiteRD).
 * Français: [@DaliaAsTrue](https://github.com/DaliaAsTrue), [@romromna](https://github.com/romromna), [@SaintePelle](https://github.com/SaintePelle), [@andrelegault](https://github.com/andrelegault)
