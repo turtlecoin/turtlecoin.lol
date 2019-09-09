@@ -61,7 +61,7 @@ index_page:
   why_3_title: Könnyen használható
   why_3: Majdnem minden operációs rendszer támogatott, még mobiltelefonon is <a href="https://turtlecoin.lol/wallet">csinálhatsz egy biztonságos és ingyenes papírtárcát</a>, így kevesebb mint 5 perc alatt el is kezdheted használni.
   why_4_title: Könnyen bányászható
-  why_4: A TurtleCoin rendelkezik egy saját, alapszintű CPU-bányászóval, de használhatod bármelyik Monero bányászó szoftvert ha inkább GPU-t vagy bányászpoolokat szeretnél használni. Javaslatunk az <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
+  why_4: why_4
   why_5_title: Közösség
   why_5: A TurtleCoin közössége szívesen lát minden felhasználót és fejlesztőt. Senki nem fog üvöltözni veled, a kritikát pedig szívesen fogadjuk. Csatlakozz a <a href="http://chat.turtlecoin.lol">Discord</a>unkhoz.
   why_6_title: Támogatás

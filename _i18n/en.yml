@@ -61,7 +61,7 @@ index_page:
   why_3_title: Easy To Use
   why_3: We support almost every OS, even on mobile you can <a href="https://turtlecoin.lol/wallet">make a secured paper-wallet for free</a>, and get started with TurtleCoin in under 5 minutes.
   why_4_title: Easy To Mine
-  why_4: TurtleCoin comes with its own basic CPU miner, but you can also use any Monero mining software you're used to if you'd rather use GPU's or mining pools. We recommend <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
+  why_4: TurtleCoin comes with its own basic CPU miner, but you can also use other mining software you're used to if you'd rather use GPU's or mining pools. We recommend <a href="https://github.com/turtlecoin/ninjarig/releases/latest">NinjaRig Miner</a>.
   why_5_title: Community
   why_5: The TurtleCoin community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our <a href="http://chat.turtlecoin.lol">Discord Chat</a>.
   why_6_title: Support
