@@ -45,7 +45,7 @@ index_page:
   download_latest: 下載最新版本
   download_gui: 下載圖形化介面
   download_cli: 下載命令列
-  download_ton_chan: Download TonChan
+  download_ton_chan: 下載TonChan
 
   # fun facts section
   fun_facts_title: 烏龜幣有趣的特性
@@ -123,7 +123,7 @@ brand_page:
   manual: 烏龜幣品牌指導方針
   latest_version: 最新版本
   download_assets: 下載資源
-  contribute_on_github: GitHub 上的貢獻
+  contribute_on_github: 在 GitHub 上貢獻
 
 brand_page_navbar:
   guidelines: 指導方針
