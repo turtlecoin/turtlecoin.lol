@@ -2,3 +2,6 @@
 	path = paper-turtle
 	url = https://github.com/turtlecoin/paper-turtle.git
   ignore = dirty
+[submodule "trtl2020"]
+	path = trtl2020
+	url = https://github.com/mrrovot/trtl2020.git
