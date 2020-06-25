@@ -4056,7 +4056,7 @@ body.is-preload #wrapper {
         -ms-flex-direction: column;
         flex-direction: column;
         height: auto;
-        margin: 0 0 5rem 0;
+        margin: 0 0 0 0;
         box-shadow: 0 0.25rem 1.5rem 0.25rem rgba(46, 43, 55, 0.5);
     }
 
