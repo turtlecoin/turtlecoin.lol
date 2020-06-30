@@ -4117,44 +4117,28 @@ body.is-preload #wrapper {
     padding: 1rem 0 0 5rem;
   }
   .Languages .Languages-btns {
-    -moz-appearance: none;
-    -ms-appearance: none;
-    appearance: none;
-    outline: 0;
-    box-shadow: none;
-    border: 0 !important;
-    background: transparent;
-    background-image: none;
-    padding: 6px;
-    text-transform: uppercase;
+	background-color: #43b380;
   }
   .Languages .Language-select {
-    position: relative;
-    display: block;
-    width: 3rem;
     height: 3em;
     background: transparent;
-    overflow: hidden;
-    opacity: 1;
     border-radius: 0.25em;
     max-width: 6rem;
-    /*box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.1);*/
-    /*text-align: center;*/
-    /*text-align-last: center;*/
-    /*-webkit-text-align-last: center;*/
-    /*opacity: .9;*/
   }
+
+  .Languages .Language-select select:focus {
+	border: solid 2px rgba(255, 255, 255, 0.25);  
+ }
+ 
+  .Languages .Language-select option {
+	color: rgba(255, 255, 255, 0.875);
+    background: #43b380;
+ }
+  
   .Languages .Languages-btns {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    position: absolute;
-    top: 0;
     color: rgba(255, 255, 255, 0.875);
     cursor: pointer;
-    padding: 0;
-    text-shadow: 0px 0px 20px #F00;
-
+	text-transform: uppercase;
   }
   
   /*hide this on small devices*/
@@ -4169,6 +4153,10 @@ body.is-preload #wrapper {
     /*show this on small devices*/
     .panel>.Languages {
       display: inline-block;
+    }
+	
+    .panel>.Languages .Languages-btns {
+      background-color: inherit;
     }
 
     .Languages {
