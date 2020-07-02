@@ -4125,20 +4125,19 @@ body.is-preload #wrapper {
     border-radius: 0.25em;
     max-width: 6rem;
   }
-
-  .Languages .Language-select select:focus {
-	border: solid 2px rgba(255, 255, 255, 0.25);  
- }
  
   .Languages .Language-select option {
 	color: rgba(255, 255, 255, 0.875);
-    background: #43b380;
+    background: #44b480;
  }
   
   .Languages .Languages-btns {
     color: rgba(255, 255, 255, 0.875);
     cursor: pointer;
 	text-transform: uppercase;
+	box-shadow: 0 2rem 4rem 0.25rem rgba(46, 43, 55, 0.575);
+	border-radius: 0px;
+	border: 0;
   }
   
   /*hide this on small devices*/
@@ -4158,6 +4157,14 @@ body.is-preload #wrapper {
     .panel>.Languages .Languages-btns {
       background-color: inherit;
     }
+	
+  .Languages .Language-select select {
+	border: solid 2px rgba(255, 255, 255, 0.25);  
+	}
+	
+  .Languages .Language-select select:focus {
+	border: solid 2px rgba(255, 255, 255, 0.25);  
+	}
 
     .Languages {
       padding: 0.8875rem 1.75rem 1.3875rem 1.75rem;
