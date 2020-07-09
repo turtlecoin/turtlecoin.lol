@@ -7,3 +7,7 @@
 	crossorigin="anonymous"
 />
 <noscript><link rel="stylesheet" href="assets/css/noscript.css"/></noscript>
+
+{% if site.lang == 'ar' or site.lang == 'he' or site.lang == 'fa' %}
+<link rel="stylesheet" href="assets/css/rtl.css">
+{% endif %}
