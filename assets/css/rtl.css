@@ -373,6 +373,10 @@ input[type="submit"].large, input[type="reset"].large, input[type="button"].larg
     padding: 1rem 5rem 0 0 ;
 }
 
+.Languages .Languages-btns {
+	direction: ltr;
+}
+
 @media screen and (max-width: 736px){
     h1.major{
         margin: 0 0 2.625rem 0 ;
