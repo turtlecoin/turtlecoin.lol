@@ -13,6 +13,16 @@ body:after{
     right: 0;
 }
 
+.reg:after {
+    content: none !important;
+}
+
+.reg:before {
+    content: "®" !important;
+    vertical-align: super !important;
+    font-size: 50% !important;
+}
+
 .banner img {
 	float: left;
 }
