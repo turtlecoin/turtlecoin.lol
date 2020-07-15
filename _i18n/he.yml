@@ -1,0 +1,53 @@
+meta:
+  description: TurtleCoin הוא מטבע אלקטרוני מעמית לעמית (p2p) מבוזר ובקוד פתוח. הוא קל לשימוש, פרטי לחלוטין ומוכן עבורך עכשיו.
+  title: TurtleCoin
+# welcome section
+turtlecoin_is: TurtleCoin</span> הוא מטבע אלקטרוני מבוזר 
+                            <strong>מעמית לעמית (p2p)</strong> 
+                            <a href="https://github.com/turtlecoin"
+                                >ובקוד פתוח</a
+                            >. 
+                            הוא קל לשימוש,
+                            <strong>פרטי לחלוטין</strong> 
+                            <a href="https://edu.turtlecoin.lol"
+                                >ומוכן עבורך</a
+                            >
+                            עכשיו.
+get_started: התחל ב-<strong>3 שלבים פשוטים.</strong>
+
+
+# wallet section
+wallet_title: בחר ארנק
+wallet_we_support: ארנקים נתמכים עבור
+                            <strong>Windows, MacOS, Linux, Android, <a href="http://latest.turtlecoin.lol">CLI</a> או Web-based wallet</strong>.
+wallet_long_term_storage: לצורכי אחסון לטווח ארוך אנו ממליצים להשתמש
+                            <strong><a href="/wallet">בארנק נייר</a></strong>.
+
+#say hello section
+say_hello_title: הצטרף לקהילה
+
+#get in the know section
+get_know_title: הישאר מעודכן
+get_know_text: בכל שבוע מתפרסמים
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >בבלוג של 
+                                    <span class="reg">TurtleCoin</span></a
+                                ></strong
+                            >
+                            עדכונים המפרטים מה השגנו. בין אם תרצה לספר על משהו מגניב שיצרת, או סתם להגיד תודה לקהילה, אתה מוזמן לתרום למאמר.
+get_know_button: לחץ כדי לכתוב עדכון
+
+#blog updates section
+blog_updates_title: עדכונים אחרונים
+
+#dev activity section
+dev_activity_title: פיתוחים אחרונים
+dev_activity_issues: Issues
+dev_activity_core_commits: Core Commits
+
+#building apps section
+building_apps_title: פיתוח אפליקציות
+building_apps_text: <span class="reg">TurtleCoin</span> מציע מגוון רב של שירותים ותיעוד למי שמעוניין לבנות על בסיס ממשקי ה- API שלנו. בכדי להתחיל בקלות אספנו עבורך מספר קישורים שיעזרו לך לאורך הדרך.
+building_apps_api_doc:  תיעוד <span class="reg">TurtleCoin</span> API
+building_apps_service_doc: תיעוד <span class="reg">TurtleCoin</span> Service
