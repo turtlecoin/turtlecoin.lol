@@ -3741,10 +3741,6 @@ button:disabled,
 @media screen and (max-width: 736px) {
     .panel.banner .content {
         padding: 2.8875rem 1.75rem 1.3875rem 1.75rem;
-        -moz-flex-basis: 60%;
-        -webkit-flex-basis: 60%;
-        -ms-flex-basis: 60%;
-        flex-basis: 60%;
     }
 
     .panel.banner .content > .actions:last-child {
