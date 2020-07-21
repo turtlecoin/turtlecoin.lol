@@ -4166,3 +4166,9 @@ body.is-preload #wrapper {
       padding: 0.8875rem 1.75rem 1.3875rem 1.75rem;
     }
   }
+  
+  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) { 
+	body {
+		overflow-x: auto;
+	}
+  }
