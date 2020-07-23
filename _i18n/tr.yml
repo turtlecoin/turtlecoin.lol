@@ -1,0 +1,66 @@
+meta:
+  description: TurtleCoin, merkezi olmayan Peer-2-Peer açık kaynak kodlu bir elektronik para birimidir. Bugün edinilmesi kolay, tamamıyla gizli ve sizin için hazır.
+  title: TurtleCoin
+# welcome section
+turtlecoin_is: TurtleCoin</span>, merkezi olmayan
+                            <strong>Peer-2-Peer</strong>
+                            <a href="https://github.com/turtlecoin"
+                                >açık kaynak kodlu</a
+                            >
+                            bir elektronik para birimidir. Bugün edinilmesi kolay,
+                            <strong>tamamıyla gizli</strong>, ve
+                            <a href="https://edu.turtlecoin.lol"
+                                >sizin için hazır</a
+                            >
+                            .
+get_started: <strong>3 Kolay adımda</strong> başlayalım.
+
+
+# wallet section
+wallet_title: Bir Cüzdan Seç
+wallet_we_support: Biz
+                            <strong>Windows, MacOS, Linux, Android, </strong>
+                            ve<strong> <a href="http://latest.turtlecoin.lol">CLI</a> veya Web-tabanlı </strong>cüzdanları destekliyoruz.
+wallet_long_term_storage: Uzun süreli yedeklemeler için,
+                            <strong><a href="/wallet">kağıt cüzdan</a></strong> kullanmanızı öneririz.
+
+#say hello section
+say_hello_title: Merhaba Deyin
+
+#get in the know section
+get_know_title: Haberdar Olun
+get_know_text: Her hafta tamamladığımız çalışmaların detaylarını
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >Resmi
+                                    <span class="reg">TurtleCoin</span> Blog'unda</a
+                                ></strong
+                            >
+                            güncelliyoruz. İster yarattığınız harika bir
+                            çalışmanız olsun ister sadece topluluğa sesinizi
+                            duyurmak isteyin, memnuniyetle makalemize
+                            katkıda bulunabilirsiniz.
+get_know_button: Güncelleme yazmak için
+
+#blog updates section
+blog_updates_title: Son Blog Güncellemeleri
+
+#dev activity section
+dev_activity_title: Son Geliştirici Etkinlikleri
+dev_activity_issues: Sorunlar
+dev_activity_core_commits: Temel Taahhütler
+
+#building apps section
+building_apps_title: Uygulama Geliştirmeleri -
+building_apps_text: <span class="reg">TurtleCoin</span> API'larımız üzerine
+                                geliştirme yapmak isteyenler için birçok hizmet
+                                ve dokümantasyona sahiptir. İşte size aşağıda yol
+                                göstermede yardımcı olabilecek bazı bağlantılar.
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> API
+                                Dokümantasyonu
+building_apps_service_doc: <span class="reg">TurtleCoin</span> Service
+                                Dokümantasyonu
+
+
+
+
