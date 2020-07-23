@@ -1,0 +1,64 @@
+meta:
+  description: 乌龟币（TurtleCoin）是一个去中心化的点对点开源数字货币。乌龟币非常容易挖掘、完全匿名，现在已为你准备好了。
+  title: TurtleCoin
+# welcome section
+turtlecoin_is: 乌龟币（TurtleCoin）</span> 是一个
+                            去中心化
+                            <strong>点对点</strong>
+                            <a href="https://github.com/turtlecoin"
+                                >开源</a
+                            >
+                            数字货币. 乌龟币非常容易挖掘，
+                            <strong>完全匿名</strong>, 现在
+                            <a href="https://edu.turtlecoin.lol"
+                                >已为你准备好了</a
+                            >
+                            。
+get_started: 从下面<strong>3个简单步骤</strong>开始熟悉使用它。
+
+
+# wallet section
+wallet_title: 选择一款钱包
+wallet_we_support: 我们支持
+                            <strong>Windows, MacOS, Linux, Android, </strong>
+                            and<strong> <a href="http://latest.turtlecoin.lol">CLI</a> or 网页 </strong>钱包。
+wallet_long_term_storage: 如果想长时间存储，我们推荐你使用
+                            <strong><a href="/wallet">纸质钱包</a></strong>.
+
+#say hello section
+say_hello_title: 打招呼
+
+#get in the know section
+get_know_title: 了解最新情况
+get_know_text: 每周我们会在
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >官方
+                                    <span class="reg">TurtleCoin</span> 博客</a
+                                ></strong
+                            >
+                            更新这周完成情况。不管是你想提交一些你自己做的比较酷的东西，
+                            还是向社区传达一些其他声音，我们欢迎每一个人向博客文章贡献自己的小小力量。
+get_know_button: 点击去提交更新
+
+#blog updates section
+blog_updates_title: 最近的博客更新
+
+#dev activity section
+dev_activity_title: 最近的开发内容
+dev_activity_issues: Issues
+dev_activity_core_commits: Core Commits
+
+#building apps section
+building_apps_title: 构建应用于
+building_apps_text: <span class="reg">TurtleCoin</span> 为任何想基于我们的API构建应用人准备了
+                                很多的服务和文档资料。下面是一些
+                                你开发应用时能帮到你的链接。
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> API
+                                文档
+building_apps_service_doc: <span class="reg">TurtleCoin</span> 服务
+                                文档
+
+
+
+
