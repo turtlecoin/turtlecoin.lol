@@ -1,0 +1,242 @@
+<!-- Copyright (c) 2018, The TurtleCoin Developers
+//
+// Please see the included LICENSE file for more information. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>TurtleCoin Wallet Generator</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="shortcut icon" href="./assets/icon.png" type="image/x-icon" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+    <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>
+
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', () => {
+        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+        if ($navbarBurgers.length > 0) {
+          $navbarBurgers.forEach( el => {
+            el.addEventListener('click', () => {
+              const target = el.dataset.target;
+              const $target = document.getElementById(target);
+              el.classList.toggle('is-active');
+              $target.classList.toggle('is-active');
+            });
+          });
+        }
+      });
+    </script>
+
+  </head>
+  <body>
+    <section class="hero is-white is-fullheight">
+      <div class="hero-head">
+	<header class="navbar">
+	  <div class="container">
+	    <div class="navbar-brand">
+	      <a href="" class="navbar-item is-size-3 has-text-weight-semibold"> TurtleCoin</a>
+	      <span class="navbar-burger burger" data-target="navbarMenu">
+		<span></span>
+		<span></span>
+		<span></span>
+	      </span>
+	    </div>
+
+	    <div id="navbarMenu" class="navbar-menu">
+              <div class="navbar-start">
+                <a href="index.html" class="navbar-item">
+                  Main generator
+                </a>
+
+                <a href="identicon.html" class="navbar-item">
+                  Custom identicon
+                </a>
+
+                <a href="check.html" class="navbar-item">
+                  Address checker
+                </a>
+              </div>
+            </div>
+          </div>
+        </header>
+      </div>
+
+      <div class="hero-body">
+        <div class="container">
+
+          <div class="columns noprint">
+            <div class="column is-12 notification is-danger has-text-centered noprint">
+	      <p class="noprint">Anything on this page in a pink colored box is <u><b>secret</u></b> and should not be shared!</p>
+            </div>
+          </div>
+
+          <div class=" has-text-centered" style="margin:50px 0 50px 0;">
+            <img src="./assets/img/logo.png" width="150" height="" />
+            <h1 class="subtitle is-size-5" style="margin-top:20px;">TurtleCoin Wallet Generator</h1>
+            <hr>
+          </div>
+
+          <div class="columns">
+            <div class="column is-12 noprint has-text-centered">
+
+	      <button class="button is-dark d-print-noe" onclick="js:show_generate();" type="button" value="Generate a wallet">Create a Wallet</button> or
+	      <button class="button is-dark noprint" onclick="js:show_restore();" type="button" value="restore keys from seed phrase">Restore keys from seed phrase</button>
+
+	      <div id="generate" style="display:none;">
+
+	        <p class="noprint" style="margin-top: 20px;">For extra security, type a few random letters, words, numbers, or symbols below.</p>
+
+	        <hr>
+
+	        <div>
+	          <input id="user_entropy_widget" class="input" type="text" style="width:100%;" placeholder=" The more random stuff you type in this box, the better your keys will be." />
+	        </div>
+
+	        <hr>
+
+	        <div>
+	          <button class="button is-black" onclick="js:genwallet(null);" type="button" value="Generate wallet">Generate</button>
+	        </div>
+
+	      </div>
+
+	      <div id="restore" style="display: none;">
+	        <div>
+	          <input id="seed_phrase" class="input" type="text" style="width:100%;" value="" placeholder="Enter your seed phrase words here."/>
+	        </div>
+
+	        <hr>
+
+	        <div class="has-text-centered">
+	          <button class="button is-dark" onclick="js:restore_keys(null);" type="button" value="Restore keys">Restore Keys</button>
+	        </div>
+	      </div>
+            </div>
+          </div>
+
+          <div class="columns" id="step2" style="display:none;">
+	    <div class="column is-12 d-print-block">
+	      <h3 class="subtitle is-size-5 d-print-block">Identicon</h3>
+              <p>Look for this identicon when sending TRTL to this address (with supported software)</p>
+	      <div id="identicon_widget"></div>
+	    </div>
+            <div  class="column is-12 d-print-block">
+	      <h3 class="subtitle is-size-5 d-print-block">Public Address</h3>
+	      <div class="notification is-info">
+	        <span style="font-family:monospace,monospace;word-break:break-all;" id="address_widget">Generating...</span>
+	      </div>
+            </div>
+          </div>
+
+          <div class="columns" id="step3" style="display:none;">
+            <div class="column is-12">
+	      <h3 class="subtitle is-size-5 d-print-block">Seed Phrase</h3>
+	      <div class="notification is-danger">
+	        <span style="font-family:monospace,monospace;word-wrap:break-word;" id="mnemonic_widget">Generating...</span>
+	      </div>
+            </div>
+          </div>
+
+          <div class="columns" id="step4" style="display:none;">
+            <div  class="column is-12 d-print-block">
+	      <h3 class="subtitle is-size-5 d-print-block">View Key</h3>
+	      <div class="notification is-danger">
+	        <span style="font-family:monospace,monospace;word-break:break-all;" id="view_key_widget">Generating...</span>
+	      </div>
+
+	      <h3 class="subtitle is-size-5 d-print-block">Spend Key</h3>
+	      <div class="notification is-danger">
+	        <span style="font-family:monospace,monospace;word-break:break-all;" id="spend_key_widget">Generating...</span>
+	      </div>
+            </div>
+          </div>
+
+          <div class="columns">
+            <div class="column is-12 noprint has-text-centered">
+	      <input type="button" onClick="window.print()" class="button is-black" value="Print This Page"/>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer class="footer hero-foot">
+        <div class="container">
+          <div class="columns">
+
+            <div class="column has-text-center">
+              Note: All generation is done client side, and no information is sent to the server <br>
+            </div>
+
+            <div class="column is-6 has-text-right">
+
+	      <a href="http://chat.turtlecoin.lol" class="button is-dark" style="background: #6c81ca;">
+	        <span class="icon">
+	          <i class="fab fa-discord"></i>
+	        </span>
+
+	        <span>Discord</span>
+	      </a>
+
+	      <a href="https://github.com/turtlecoin/paper-turtle" class="button is-dark">
+	        <span class="icon">
+	          <i class="fab fa-github"></i>
+	        </span>
+
+	        <span>Github</span>
+	      </a>
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </section>
+
+    <script type="text/javascript" src="./assets/js/jdenticon-settings.js"></script>
+    <script type="text/javascript" src="./assets/js/jdenticon-2.1.0.js"></script>
+    <script type="text/javascript" src="./assets/js/iframe-buster.js"></script>
+    <script type="text/javascript" src="./assets/js/crypto_utils.js"></script>
+    <script type="text/javascript" src="./assets/js/wallet.js"></script>
+    <script src="./assets/js/qrcode.js"></script>
+    <!-- For printing -->
+
+    <div class="wallet print">
+      <img src="assets/img/keys.png"/>
+      <div class="amount-added-text">Seed</div>
+      <div class="note-text" id="mnemonic_widget_copy">Seed</div>
+      <div class="date-text">Date</div>
+      <div class="instruction-text">
+        <ul>
+          <li>
+            To deposit funds to this Turtle paper wallet: send TRTL to the <b>public</b> address
+          </li>
+          <li>
+            <b>DO NOT REVEAL THE PRIVATE KEY</b> until you are ready to import the balance of this wallet to a Turtle client
+          </li>
+        </ul>
+      </div>
+      <div id="spend_key_widget_copy" class="spend_key_widget"></div>
+      <div id="address_widget_copy" class="address_widget"></div>
+      <div id="qrcodeSecret_copy" class="qr-secret"></div>
+      <div id="address_qr_widget_copy" class="qr-address"></div>
+      <div id="view_key_widget_copy" class="view_key_widget"></div>
+      <div id="qrcodeView_copy" class="qr-view"></div>
+      <div class="logo-text">
+        <ul>
+          <div class="logo">
+            <img class="logo" src="assets/img/logo.png"/>
+          </div>
+          <li>
+            <b>TURTLECOIN</b>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+
+  </body>
+</html>
