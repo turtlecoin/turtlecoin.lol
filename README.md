@@ -51,6 +51,16 @@ All translations live in the `_i18n` folder.
 
 ### Contributors
 
+* Chinese: [@mason2woods](https://github.com/mason2woods)
+* Deutsch: [@iwoojoo](https://github.com/iwoojoo)
+* Español: [@mrrovot](https://github.com/mrrovot)
+* Français: [@RocksteadyTC](https://github.com/RocksteadyTC)
+* Hebrew [@mrrovot](https://github.com/mrrovot), [@Daniel-Leedan](https://github.com/Daniel-Leedan)
+* Portuguese: [@D4rkGh05t](https://github.com/D4rkGh05t)
+* Turkish: [@KontViper](https://github.com/KontViper)
+
+### Previous Contributors
+
 * Afrikaans: [@jacojvv](https://github.com/jacojvv), [@Reinsie44](https://github.com/Reinsie44)
 * Chinese: [@sbc-trtl](https://github.com/sbc-trtl), `@sdyu ges`
 * Czech: [@Elkim](https://github.com/elkimek), [@LeoStehlik](https://github.com/LeoStehlik), [@TurtlesHill](https://github.com/TurtlesiHill)
@@ -62,4 +72,3 @@ All translations live in the `_i18n` folder.
 * Portuguese: [@D4rkGh05t](https://github.com/D4rkGh05t), [@Mineirofox](https://github.com/Mineirofox)
 * Russian: [@Jihadist](https://github.com/Jihadist), [@CaptainMeatloaf](https://github.com/CaptainMeatloaf)
 * Korean: [@seocal](https://github.com/seocal)
-* Hebrew [@mrrovot](https://github.com/mrrovot), [@Daniel-Leedan](https://github.com/Daniel-Leedan)
