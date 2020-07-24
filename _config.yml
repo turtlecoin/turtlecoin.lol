@@ -16,33 +16,33 @@ gems:
 
 # Localization config
 
-languages: ["en", "es", "pt-br", "de", "he", "zh", "fr", "tr"]
+languages: ["en", "de", "es", "fr", "he", "pt-br", "tr", "zh"]
 
 language_names:
   en:
     short: en
     full: English
-  es:
-    short: es
-    full: Español
-  pt-br:
-    short: pt-br
-    full: Portuguese
   de:
     short: de
     full: Deutsch
-  he:
-    short: he
-    full: Hebrew
-  zh:
-    short: zh
-    full: Chinese
+  es:
+    short: es
+    full: Español
   fr:
     short: fr
     full: French
+  he:
+    short: he
+    full: Hebrew
+  pt-br:
+    short: pt-br
+    full: Portuguese
   tr:
     short: tr
     full: Turkish
+  zh:
+    short: zh
+    full: Chinese
   # dev:
   #   short: dev
   #   full: Development
