@@ -67,6 +67,7 @@ All translations live in the `_i18n` folder.
 * Deutsch: [@encryptedunicorn](https://github.com/encryptedunicorn), [@hurrdurrnein](https://github.com/hurrdurrnein), [@armitage0](https://github.com/armitage0)
 * Español: [@euricanti](https://github.com/euricanti), [@mrrovot](https://github.com/mrrovot), [@adj-gh](https://github.com/adj-gh), [@SrWhiteRD](https://github.com/SrWhiteRD).
 * Français: [@DaliaAsTrue](https://github.com/DaliaAsTrue), [@romromna](https://github.com/romromna), [@SaintePelle](https://github.com/SaintePelle), [@andrelegault](https://github.com/andrelegault)
+* Hebrew [@mrrovot](https://github.com/mrrovot)
 * Turkish: [@Mersaultkn](https://github.com/Mersaultkn), [@alicans](https://github.com/alicans)
 * Italiano: [@andreafno](https://github.com/andreafno), [@4k4](https://github.com/4k4)
 * Portuguese: [@D4rkGh05t](https://github.com/D4rkGh05t), [@Mineirofox](https://github.com/Mineirofox)
