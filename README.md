@@ -51,15 +51,25 @@ All translations live in the `_i18n` folder.
 
 ### Contributors
 
+* Chinese: [@mason2woods](https://github.com/mason2woods)
+* Deutsch: [@iwoojoo](https://github.com/iwoojoo)
+* Español: [@mrrovot](https://github.com/mrrovot)
+* Français: [@RocksteadyTC](https://github.com/RocksteadyTC)
+* Hebrew [@mrrovot](https://github.com/mrrovot), [@Daniel-Leedan](https://github.com/Daniel-Leedan)
+* Portuguese: [@D4rkGh05t](https://github.com/D4rkGh05t)
+* Turkish: [@KontViper](https://github.com/KontViper)
+
+### Previous Contributors
+
 * Afrikaans: [@jacojvv](https://github.com/jacojvv), [@Reinsie44](https://github.com/Reinsie44)
 * Chinese: [@sbc-trtl](https://github.com/sbc-trtl), `@sdyu ges`
 * Czech: [@Elkim](https://github.com/elkimek), [@LeoStehlik](https://github.com/LeoStehlik), [@TurtlesHill](https://github.com/TurtlesiHill)
 * Deutsch: [@encryptedunicorn](https://github.com/encryptedunicorn), [@hurrdurrnein](https://github.com/hurrdurrnein), [@armitage0](https://github.com/armitage0)
 * Español: [@euricanti](https://github.com/euricanti), [@mrrovot](https://github.com/mrrovot), [@adj-gh](https://github.com/adj-gh), [@SrWhiteRD](https://github.com/SrWhiteRD).
 * Français: [@DaliaAsTrue](https://github.com/DaliaAsTrue), [@romromna](https://github.com/romromna), [@SaintePelle](https://github.com/SaintePelle), [@andrelegault](https://github.com/andrelegault)
-* Turkish: [@Mersaultkn](https://github.com/Mersaultkn), [@alicans](https://github.com/alicans)
+* Hebrew [@mrrovot](https://github.com/mrrovot)
 * Italiano: [@andreafno](https://github.com/andreafno), [@4k4](https://github.com/4k4)
+* Korean: [@seocal](https://github.com/seocal)
 * Portuguese: [@D4rkGh05t](https://github.com/D4rkGh05t), [@Mineirofox](https://github.com/Mineirofox)
 * Russian: [@Jihadist](https://github.com/Jihadist), [@CaptainMeatloaf](https://github.com/CaptainMeatloaf)
-* Korean: [@seocal](https://github.com/seocal)
-* Hebrew [@mrrovot](https://github.com/mrrovot), [@Daniel-Leedan](https://github.com/Daniel-Leedan)
+* Turkish: [@Mersaultkn](https://github.com/Mersaultkn), [@alicans](https://github.com/alicans)
