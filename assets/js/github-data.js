@@ -38,7 +38,6 @@ $(document)
       success: function (data) {
         for (var i = 0; i < data.assets.length; i++) {
           const asset = data.assets[i]
-          console.log(asset.content_type)
           switch (asset.content_type) {
             case 'application/x-ms-dos-executable':
               $('#gui-windows-dl')
