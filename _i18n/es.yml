@@ -10,7 +10,7 @@ get_started: Comencemos en <strong>3 pasos sencillos.</strong>
 wallet_title: Elige un Monedero
 wallet_we_support: Soportamos
                             <strong>Windows, MacOS, Linux, Android,</strong>
-                            y monederos<strong> basados en Web </strong>.
+                            y<strong> <a href="http://latest.turtlecoin.lol">CLI</a> o monederos basados en Web</strong>.
 wallet_long_term_storage: Para el almacenamiento a largo plazo, recomendamos utilizar un <strong><a href="/wallet">monedero de "papel"</a></strong>.
 
 #say hello section
@@ -18,19 +18,19 @@ say_hello_title: Ven a Saludarnos
 
 #get in the know section
 get_know_title: Entérate
-get_know_text: Cada semana publicamos actualizaciones en el <strong><a href="https://blog.turtlecoin.lol" >Blog oficial de <span class="reg">TurtleCoin</span></a></strong> detallando lo que hemos logrado. Si desea enviar algo cool que ha estado creando, o simplemente enviàr un saludo a la comunidad, todos son bienvenidos a contribuir con un artículo.            
-get_know_button: Haga clic para escribir una actualización
+get_know_text: Cada semana publicamos actualizaciones en el <strong><a href="https://blog.turtlecoin.lol" >Blog oficial de <span class="reg">TurtleCoin</span></a></strong> detallando lo que hemos logrado. Si deseas enviar algo cool que has estado creando, o simplemente enviar un saludo a la comunidad, todos son bienvenidos a contribuir con un artículo.            
+get_know_button: Haz clic para escribir una actualización
 
 #blog updates section
-blog_updates_title: Articulos Recientes
+blog_updates_title: Artículos Recientes
 
 #dev activity section
-dev_activity_title: Avitividad Reciente de Desarrolladores
+dev_activity_title: Actividad Reciente de Desarrolladores
 dev_activity_issues: Issues
 dev_activity_core_commits: Core Commits
 
 #building apps section
 building_apps_title: Desarrolla Apps en
-building_apps_text: <span class="reg">TurtleCoin</span> tiene muchas opciones y documentación para aquellos que desean desarrollar con nuestro API. Aquí hay algunos enlaces que los ayudara.
+building_apps_text: <span class="reg">TurtleCoin</span> tiene muchas opciones y documentación para aquellos que desean desarrollar con nuestro API. Aquí hay algunos enlaces que los ayudarán.
 building_apps_api_doc: Documentación del API de <span class="reg">TurtleCoin</span>
 building_apps_service_doc: Documentación de Servicios de <span class="reg">TurtleCoin</span>
