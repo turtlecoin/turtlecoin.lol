@@ -522,6 +522,12 @@ sup {
     top: -0.5rem;
 }
 
+#github-commits li {
+    max-height: 5.25rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 blockquote {
     border-left: solid 0.25rem rgba(255, 255, 255, 0.25);
     font-style: italic;
@@ -532,7 +538,8 @@ blockquote {
     text-overflow: ellipsis;
 }
 @media screen and (max-width: 736px) {
-    blockquote {
+    blockquote,
+    #github-commits li {
         max-height: 100%;
     }
 }
