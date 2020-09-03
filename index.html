@@ -11,297 +11,195 @@ description: meta.description
 -->
 <html lang="{{ site.lang }}">
 
-    <head>
-        {% include meta.html %}
-         {% include stylesheets.html %}
-    </head>
-    <body class="is-preload" style="">
+<head>
+	{% include meta.html %}
+	{% include stylesheets.html %}
+</head>
 
-        <!-- Page Wrapper -->
-            <div id="page-wrapper">
-                    {% include language_selector_navbar_item.html %}
-            <!-- Wrapper -->
-            <div id="wrapper">
-                <!-- Panel (Banner) -->
-                <section class="panel banner left">
-                            {% include language_selector_navbar_item.html %}
-                    <div class="content color0 span-3-75">
+<body class="is-preload" style="">
 
-                        <span
-                            >
-                            <img
-                                height="100px"
-                                width="100px"
-                                align="right"
-                                src="assets/images/turtlecoin_logo.svg"
-                        /></span>
-                        <h1 class="major">
-                            <span class="reg">TurtleCoin</span>  
-                        </h1>
-                        <p>
-                            <span class="reg">
-                            {% t turtlecoin_is %}
-                             <br /><br />
-                            {% t get_started %}
-                        </p>
-                        <ul class="actions">
-                            <li>
-                                <a
-                                    href="#first"
-                                    class="button primary color2 circle icon solid fa-arrow-right"
-                                    >Next</a
-                                >
-                            </li>
-                        </ul>
-                    </div>
-                </section>
+	<!-- Page Wrapper -->
+	<div id="page-wrapper">
+		{% include language_selector_navbar_item.html %}
+		<!-- Wrapper -->
+		<div id="wrapper">
+			<!-- Panel (Banner) -->
+			<section class="panel banner left">
+				{% include language_selector_navbar_item.html %}
+				<div class="content color0 span-3-75">
 
-                <section class="panel color1">
-                    <div class="intro joined">
-                        <h2 class="major">1. {% t wallet_title %}</h2>
-                        <p>
-                            {% t wallet_we_support %}
-                        </p>
-                        <p>
-                            {% t wallet_long_term_storage %}
-                        </p>
-                    </div>
-                    <div class="inner" id="first">
-                        <ul class="grid-icons three connected">
-                            <li>
-                                <a
-                                    id="gui-windows-dl"
-                                    href="https://github.com/turtlecoin/turtle-wallet-proton/releases/latest"
-                                    target="”_blank”"
-                                >
-                                    <span class="icon brands solid fa-windows"
-                                        ><span class="label"
-                                            >Windows</span
-                                        ></span
-                                    ></a
-                                >
-                            </li>
-                            <li>
-                                <a
-                                    id="gui-mac-dl"
-                                    href="https://github.com/turtlecoin/turtle-wallet-proton/releases/latest"
-                                    target="”_blank”"
-                                >
-                                    <span class="icon brands solid fa-apple"
-                                        ><span class="label">Apple</span></span
-                                    ></a
-                                >
-                            </li>
-                            <li>
-                                <a
-                                    id="gui-linux-dl"
-                                    href="https://github.com/turtlecoin/turtle-wallet-proton/releases/latest"
-                                    target="”_blank”"
-                                >
-                                    <span class="icon brands fas fa-linux"
-                                        ><span class="label">Linux</span></span
-                                    ></a
-                                >
-                            </li>
-                            <li>
-                                <a href="https://shellnet.pw" target="”_blank”">
-                                    <span class="icon solid fa-cloud"
-                                        ><span class="label"
-                                            >Web Wallet</span
-                                        ></span
-                                    ></a
-                                >
-                            </li>
-                            <li>
-                                <a
-                                    href="https://play.google.com/store/apps/details?id=com.tonchan"
-                                    target="”_blank”"
-                                >
-                                    <span class="icon brands solid fa-android"
-                                        ><span class="label"
-                                            >Android</span
-                                        ></span
-                                    ></a
-                                >
-                            </li>
-                            <li>
-                                <a
-                                    href="https://turtlecoin.lol/wallet"
-                                    target="”_blank”"
-                                >
-                                    <span class="icon solid fa-wallet"
-                                        ><span class="label"
-                                            >Paper Wallet</span
-                                        ></span
-                                    ></a
-                                >
-                            </li>
-                        </ul>
-                    </div>
-                </section>
+					<span>
+						<img height="100" width="100" src="assets/images/turtlecoin_logo.svg" alt="TurtleCoin Logo" /></span>
+					<h1 class="major">
+						<span class="reg">TurtleCoin</span>
+					</h1>
+					<p>
+						<span class="reg">
+							{% t turtlecoin_is %}
+							<br /><br />
+							{% t get_started %}
+					</p>
+					<ul class="actions">
+						<li>
+							<a href="#first" class="button primary color2 circle icon solid fa-arrow-right">Next</a>
+						</li>
+					</ul>
+				</div>
+			</section>
 
-                <section class="panel color4-alt">
-                    <div class="inner columns divided">
-                        <div class="span-1-2">
-                            <h2 class="major">2. {% t say_hello_title %}</h2>
-                            <ul class="contact-icons color1">
-                                <li
-                                    class="icon brands fa-discord transparent-icon"
-                                    onclick="location.href='http://chat.turtlecoin.lol'"
-                                >
-                                    <a href="http://chat.turtlecoin.lol"
-                                        >Discord</a
-                                    >
-                                </li>
-                                <li
-                                    class="icon brands fa-twitter transparent-icon"
-                                    onclick="location.href='https://twitter.com/_turtlecoin'"
-                                >
-                                    <a href="https://twitter.com/_turtlecoin"
-                                        >Twitter</a
-                                    >
-                                </li>
-                                <li
-                                    class="icon brands fa-wordpress transparent-icon"
-                                    onclick="location.href='https://blog.turtlecoin.lol'"
-                                >
-                                    <a href="https://blog.turtlecoin.lol"
-                                        >Blog</a
-                                    >
-                                </li>
-                                <li
-                                    class="icon brands fa-github transparent-icon"
-                                    onclick="location.href='https://github.com/turtlecoin/'"
-                                >
-                                    <a href="https://github.com/turtlecoin/"
-                                        >GitHub</a
-                                    >
-                                </li>
-                                <li
-                                    class="icon brands fa-linkedin transparent-icon"
-                                    onclick="location.href='https://www.linkedin.com/company/turtlecoin'"
-                                >
-                                    <a
-                                        href="https://www.linkedin.com/company/turtlecoin"
-                                        >LinkedIn</a
-                                    >
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
+			<section class="panel color1">
+				<div class="intro joined">
+					<h2 class="major">1. {% t wallet_title %}</h2>
+					<p>
+						{% t wallet_we_support %}
+					</p>
+					<p>
+						{% t wallet_long_term_storage %}
+					</p>
+				</div>
+				<div class="inner" id="first">
+					<ul class="grid-icons three connected">
+						<li>
+							<a id="gui-windows-dl" href="https://github.com/turtlecoin/turtle-wallet-proton/releases/latest" target="”_blank”">
+								<span class="icon brands solid fa-windows"><span class="label">Windows</span></span></a>
+						</li>
+						<li>
+							<a id="gui-mac-dl" href="https://github.com/turtlecoin/turtle-wallet-proton/releases/latest" target="”_blank”">
+								<span class="icon brands solid fa-apple"><span class="label">Apple</span></span></a>
+						</li>
+						<li>
+							<a id="gui-linux-dl" href="https://github.com/turtlecoin/turtle-wallet-proton/releases/latest" target="”_blank”">
+								<span class="icon brands fas fa-linux"><span class="label">Linux</span></span></a>
+						</li>
+						<li>
+							<a href="https://shellnet.pw" target="”_blank”">
+								<span class="icon solid fa-cloud"><span class="label">Web Wallet</span></span></a>
+						</li>
+						<li>
+							<a href="https://play.google.com/store/apps/details?id=com.tonchan" target="”_blank”">
+								<span class="icon brands solid fa-android"><span class="label">Android</span></span></a>
+						</li>
+						<li>
+							<a href="https://turtlecoin.lol/wallet" target="”_blank”">
+								<span class="icon solid fa-wallet"><span class="label">Paper Wallet</span></span></a>
+						</li>
+					</ul>
+				</div>
+			</section>
 
-                <!-- Panel -->
-                <section class="panel color2-alt">
-                    <div class="intro color2">
-                        <h2 class="major">3. {% t get_know_title %}</h2>
-                        <p>
-                            {% t get_know_text %}
-                        </p>
-                        <p>
-                            <button
-                                href="https://goo.gl/forms/BNaRYkUmOVOa1apQ2"
-                                onclick="location.href='https://goo.gl/forms/BNaRYkUmOVOa1apQ2'"
-                            >
-                                {% t get_know_button %}
-                            </button>
-                        </p>
-                    </div>
-                    <div class="inner columns aligned">
-                        <div class="span-2-75">
-                            <h3>
-                                <a href="https://blog.turtlecoin.lol"
-                                    >{% t blog_updates_title %}</a
-                                >
-                            </h3>
-                            <span id="blog-feed">
-                                Loading latest articles...
-                            </span>
-                        </div>
-                        <div class="span-2-75">
-                            <h3>
-                                <a href="https://github.com/turtlecoin"
-                                    >{% t dev_activity_title %}</a
-                                >
-                            </h3>
+			<section class="panel color4-alt">
+				<div class="inner columns divided">
+					<div class="span-1-2">
+						<h2 class="major">2. {% t say_hello_title %}</h2>
+						<ul class="contact-icons color1">
+							<li class="icon brands fa-discord transparent-icon" onclick="location.href='http://chat.turtlecoin.lol'">
+								<a href="http://chat.turtlecoin.lol">Discord</a>
+							</li>
+							<li class="icon brands fa-twitter transparent-icon" onclick="location.href='https://twitter.com/_turtlecoin'">
+								<a href="https://twitter.com/_turtlecoin">Twitter</a>
+							</li>
+							<li class="icon brands fa-wordpress transparent-icon" onclick="location.href='https://blog.turtlecoin.lol'">
+								<a href="https://blog.turtlecoin.lol">Blog</a>
+							</li>
+							<li class="icon brands fa-github transparent-icon" onclick="location.href='https://github.com/turtlecoin/'">
+								<a href="https://github.com/turtlecoin/">GitHub</a>
+							</li>
+							<li class="icon brands fa-linkedin transparent-icon" onclick="location.href='https://www.linkedin.com/company/turtlecoin'">
+								<a href="https://www.linkedin.com/company/turtlecoin">LinkedIn</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</section>
 
-                            <h4>{% t dev_activity_issues %}</h4>
-                            <ul class="alt" id="github-issues">
-                                <li>
-                                    Loading latest issues...
-                                </li>
-                            </ul>
+			<!-- Panel -->
+			<section class="panel color2-alt">
+				<div class="intro color2">
+					<h2 class="major">3. {% t get_know_title %}</h2>
+					<p>
+						{% t get_know_text %}
+					</p>
+					<p>
+						<a href="https://goo.gl/forms/BNaRYkUmOVOa1apQ2" class="button" onclick="location.href='https://goo.gl/forms/BNaRYkUmOVOa1apQ2'">
+							{% t get_know_button %}
+						</a>
+					</p>
+				</div>
+				<div class="inner columns aligned">
+					<div class="span-2-75">
+						<h3>
+							<a href="https://blog.turtlecoin.lol">{% t blog_updates_title %}</a>
+						</h3>
+						<span id="blog-feed">
+							Loading latest articles...
+						</span>
+					</div>
+					<div class="span-2-75">
+						<h3>
+							<a href="https://github.com/turtlecoin">{% t dev_activity_title %}</a>
+						</h3>
 
-                            <h4>{% t dev_activity_core_commits %}</h4>
-                            <ul class="alt" id="github-commits">
-                                <li>
-                                    Loading latest commits...
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="span-1-75">
-                            <h4>
-                                {% t building_apps_title %}
-                                <span class="reg">TurtleCoin</span>
-                            </h4>
-                            <p>
-                                {% t building_apps_text %}
-                            </p>
+						<h4>{% t dev_activity_issues %}</h4>
+						<ul class="alt" id="github-issues">
+							<li>
+								Loading latest issues...
+							</li>
+						</ul>
 
-                            <h5>
-                                {% t building_apps_api_doc %}
-                               
+						<h4>{% t dev_activity_core_commits %}</h4>
+						<ul class="alt" id="github-commits">
+							<li>
+								Loading latest commits...
+							</li>
+						</ul>
+					</div>
+					<div class="span-1-75">
+						<h4>
+							{% t building_apps_title %}
+							<span class="reg">TurtleCoin</span>
+						</h4>
+						<p>
+							{% t building_apps_text %}
+						</p>
 
-                            </h5>
-                            <ul class="actions">
-                                <li>
-                                    <a
-                                        href="https://docs.turtlecoin.lol/developer/api/daemon-json-rpc-api"
-                                        class="button"
-                                        >Daemon API</a
-                                    >
-                                </li>
-                                <li>
-                                    <a
-                                        href="https://turtlecoin.github.io/wallet-api-docs/"
-                                        class="button"
-                                        >Wallet API</a
-                                    >
-                                </li>
-                            </ul>
-                            <h5>
-                                {% t building_apps_service_doc %}
-                                
-                            </h5>
-                            <ul>
-                                <li>
-                                    <a href="https://trtlapps.com/"
-                                        >TRTLApps.com</a
-                                    >
-                                </li>
-                                <li>
-                                    <a href="https://docs.turtlepay.io/"
-                                        >TurtlePay.io</a
-                                    >
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
+						<h5>
+							{% t building_apps_api_doc %}
 
-                <!-- Copyright -->
-                <!-- <div class="copyright">
+
+						</h5>
+						<ul class="actions">
+							<li>
+								<a href="https://docs.turtlecoin.lol/developer/api/daemon-json-rpc-api" class="button">Daemon API</a>
+							</li>
+							<li>
+								<a href="https://turtlecoin.github.io/wallet-api-docs/" class="button">Wallet API</a>
+							</li>
+						</ul>
+						<h5>
+							{% t building_apps_service_doc %}
+
+						</h5>
+						<ul>
+							<li>
+								<a href="https://trtlapps.com/">TRTLApps.com</a>
+							</li>
+							<li>
+								<a href="https://docs.turtlepay.io/">TurtlePay.io</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</section>
+
+			<!-- Copyright -->
+			<!-- <div class="copyright">
                     &copy; Untitled. Design:
                     <a href="https://html5up.net">HTML5 UP</a>.
                 </div> -->
-            </div>
-        </div>
-
-        <!-- Scripts -->
-        {% include body_javascripts.html %}
-
-
-
-    </body>
+		</div>
+	</div>
+	<!-- Scripts -->
+	{% include body_javascripts.html %}
+</body>
 
 </html>
