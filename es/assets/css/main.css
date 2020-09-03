@@ -999,6 +999,10 @@ input[type="radio"] + label:before {
 
 /* Image */
 
+.banner img {
+	float: right;
+}
+
 .image {
     display: inline-block;
     position: relative;
