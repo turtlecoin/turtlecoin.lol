@@ -55,7 +55,7 @@ All translations live in the `_i18n` folder.
 * Deutsch: [@iwoojoo](https://github.com/iwoojoo)
 * Español: [@mrrovot](https://github.com/mrrovot)
 * Français: [@RocksteadyTC](https://github.com/RocksteadyTC)
-* Hebrew [@mrrovot](https://github.com/mrrovot), [@Daniel-Leedan](https://github.com/Daniel-Leedan)
+* Hebrew [@mrrovot](https://github.com/mrrovot), [@l33d4n](https://github.com/l33d4n)
 * Portuguese: [@D4rkGh05t](https://github.com/D4rkGh05t)
 * Turkish: [@KontViper](https://github.com/KontViper)
 
