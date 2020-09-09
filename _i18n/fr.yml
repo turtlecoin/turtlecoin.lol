@@ -1,5 +1,5 @@
 meta:
-  description: TurtleCoin est un moyen amusant d'envoyer de l'argent de manière privée à des amis ou des entreprises. TurtleCoin est une cryptomonnaie open-source développée par la communauté, facile à minée, mais disposant également d'un portefeuille graphique.
+  description: TurtleCoin est un moyen amusant d'envoyer de l'argent de manière privée à des amis ou des entreprises. TurtleCoin est une cryptomonnaie open-source développée par la communauté, facile à miner, mais disposant également d'un portefeuille graphique.
   title: TurtleCoin # .lol - Un Moyen Facile, Rapide et Amusant d'Envoyer de l'Argent à des Amis ou des Entreprises
 
 # welcome section
@@ -25,7 +25,7 @@ get_know_text: Toutes les semaines, nous postons sur le
                                     <span class="reg">TurtleCoin</span> </a
                                 ></strong
                             >
-                            en détaillant ce qui a été accomplis. Que ce soit pour publier des trucs cools que vous avez accomplis, ou bien pour dire bonjour à la communauté, tout le monde est le bienvenue pour contribuer à un article.
+                            en détaillant ce qui a été accomplis. Que ce soit pour publier des trucs cools ou bien pour dire bonjour à la communauté, tout le monde est le bienvenue pour contribuer à un article.
 get_know_button: Écrire un article
 
 #blog updates section
