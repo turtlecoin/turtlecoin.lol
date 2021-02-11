@@ -16,7 +16,7 @@ gems:
 
 # Localization config
 
-languages: ["en", "de", "es", "fr", "he", "pt-br", "tr", "zh"]
+languages: ["en", "de", "es", "fr", "he", "pt-br", "tr", "zh", "nl"]
 
 language_names:
   en:
@@ -43,6 +43,9 @@ language_names:
   zh:
     short: zh
     full: Chinese
+  nl:
+    short: nl
+    full: Dutch
   # dev:
   #   short: dev
   #   full: Development
