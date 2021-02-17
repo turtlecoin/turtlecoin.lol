@@ -1,14 +1,14 @@
 meta:
-  description: Turtlecoin is een gedecentraliseerde Peer-2-Peer Open Source electronische munt. Gemakkelijk om te beginnen, volledig privé, en klaar voor u vandaag.
+  description: Turtlecoin is een gedecentraliseerde peer-to-peer, open source, digitale valuta. Gemakkelijk om te beginnen, volledig privé, en klaar voor u vandaag.
   title: TurtleCoin
 # welcome section
 turtlecoin_is: TurtleCoin</span> is een
                             gedecentraliseerde
-                            <strong>Peer-2-Peer</strong>
+                            <strong>Peer-to-Peer</strong>
                             <a href="https://github.com/turtlecoin"
                                 >Open Source</a
                             >
-                            electronische munt. Gemakkelijk te beginnen
+                            digitale valuta. Gemakkelijk te beginnen
                             <strong>volledig privé</strong>, en
                             <a href="https://edu.turtlecoin.lol"
                                 >klaar voor u </a
@@ -29,7 +29,7 @@ wallet_long_term_storage: Voor langetermijn opslag, raden we een
 say_hello_title: Zeg Hallo
 
 #get in the know section
-get_know_title: Kom Op De Hoogte
+get_know_title: Blijf Op De Hoogte
 get_know_text: Elke week posten we updates op de
                             <strong>
                                 <a href="https://blog.turtlecoin.lol"
