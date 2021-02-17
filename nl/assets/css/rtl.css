@@ -1,0 +1,465 @@
+body {direction:rtl;}
+
+table{
+    margin: 0 0 1.5rem 0 ;
+}
+
+body:before{
+    right: 50%;
+    margin: -2rem -2rem 0 0 ;
+}
+
+body:after{
+    right: 0;
+}
+
+.reg:after {
+    content: none !important;
+}
+
+.reg:before {
+    content: "®" !important;
+    vertical-align: super !important;
+    font-size: 50% !important;
+}
+
+.banner img {
+	float: left;
+}
+
+.banner .actions a {
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+
+p{
+    margin: 0 0 1.5rem 0 ;
+}
+
+h1, h2, h3, h4, h5, h6{
+    margin: 0 0 0.75rem 0 ;
+}
+
+h1.major:after, h2.major:after, h3.major:after{
+    right: 0;
+}
+
+h1.major{
+    margin: 0 0 2.625rem 0 ;
+}
+
+h2.major{
+    margin: 0 0 1.9875rem 0 ;
+}
+
+h3.major{
+    margin: 0 0 1.875rem 0 ;
+}
+
+blockquote{
+    border-right: solid 0.25rem rgba(255, 255, 255, 0.25);
+	border-left: 0;
+    margin: 0 0 1.5rem 0 ;
+    padding: 0.375rem 1.5rem 0.375rem 0 ;
+}
+
+pre{
+    margin: 0 0 1.5rem 0 ;
+}
+
+.align-left{
+    text-align: right;
+}
+
+.align-right{
+    text-align: left;
+}
+
+form{
+    margin: 0 0 1.5rem 0 ;
+}
+
+form > .fields{
+    margin: -1.5rem -1.5rem 1.5rem 0 ;
+}
+
+form > .fields > .field{
+    padding: 1.5rem 1.5rem 0 0 ;
+}
+
+label{
+    margin: 0 0 0.4875rem 0 ;
+}
+
+input[type="checkbox"], input[type="radio"]{
+    float: right;
+    margin-left: -2rem;
+}
+
+input[type="checkbox"] + label, input[type="radio"] + label{
+    padding-right: 2.5rem;
+    padding-left: 1rem;
+}
+
+input[type="checkbox"] + label:before, input[type="radio"] + label:before{
+    right: 0;
+}
+
+input[type="checkbox"]:checked + label:before, input[type="radio"]:checked + label:before{
+    border-color: rgba(255, 0.875) 255, 255, ;
+}
+
+.image.filtered:after{
+    right: 0;
+}
+
+.image[data-position] img{
+    right: 0;
+}
+
+.image.left{
+    float: right;
+    padding: 0 0 1rem 1.5rem ;
+}
+
+.image.right{
+    float: left;
+    padding: 0 1.5rem 1rem 0 ;
+}
+
+.image.fit{
+    margin: 0 0 1.5rem 0 ;
+}
+
+.image.main{
+    margin: 0 0 2.25rem 0 ;
+}
+
+ol{
+    margin: 0 0 1.5rem 0 ;
+    padding-right: 1.25rem;
+}
+
+ol li{
+    padding-right: 0.25rem;
+}
+
+ul{
+    margin: 0 0 1.5rem 0 ;
+    padding-right: 1rem;
+}
+
+ul li{
+    padding-right: 0.5rem;
+}
+
+ul.alt{
+    padding-right: 0;
+}
+
+dl{
+    margin: 0 0 1.5rem 0 ;
+}
+
+dl dt{
+    margin: 0 0 0.75rem 0 ;
+}
+
+dl dd{
+    margin-right: 1.5rem;
+}
+
+ul.actions{
+    margin-right: -0.75rem;
+    padding-right: 0;
+}
+
+ul.actions li{
+    padding: 0 0.75rem 0 0 ;
+}
+
+ul.actions.special{
+    margin-right: 0;
+}
+
+ul.actions.special li:first-child{
+    padding-right: 0;
+}
+
+ul.actions.stacked{
+    margin-right: 0;
+}
+
+ul.actions.stacked li{
+    padding: 0.975rem 0 0 0 ;
+}
+
+ul.icons{
+    padding-right: 0;
+}
+
+ul.icons li{
+    padding: 0 0 0 1rem ;
+}
+
+ul.icons li:last-child{
+    padding-left: 0;
+}
+
+ul.grid-icons{
+    margin: 0 0 1.5rem 0 ;
+    padding-right: 0;
+}
+
+ul.grid-icons > li{
+    margin: 1.5rem 1.5rem 0 0 ;
+    padding-right: 0;
+}
+
+ul.grid-icons.connected > li:before{
+    right: -1.5rem;
+}
+
+ul.grid-icons.connected > li:after{
+    right: 50%;
+}
+
+ul.grid-icons.two > li:nth-child(2n - 1){
+    margin-right: 0;
+}
+
+ul.grid-icons.three > li:nth-child(3n - 2){
+    margin-right: 0;
+}
+
+ul.grid-icons.four > li:nth-child(4n - 3){
+    margin-right: 0;
+}
+
+ul.contact-icons{
+    padding-right: 0;
+}
+
+ul.contact-icons > li{
+    margin: 1.25rem 0 0 0 ;
+    padding-right: 0;
+}
+
+ul.contact-icons > li:before{
+    margin-left: 1rem;
+}
+
+table tbody tr{
+    border-right: 0;
+    border-left: 0;
+}
+
+table th{
+    padding: 0 0.75rem 0.75rem 0.75rem ;
+    text-align: right;
+}
+
+table.alt tbody tr td{
+    border-right-width: 0;
+}
+
+table.alt tbody tr td:first-child{
+    border-right-width: 1px;
+}
+
+input[type="submit"], input[type="reset"], input[type="button"], button, .button{
+    padding: 0 1.65rem 0 1.5rem ;
+}
+
+input[type="submit"].icon:before, input[type="reset"].icon:before, input[type="button"].icon:before, button.icon:before, .button.icon:before{
+    margin: 0 -0.325rem 0 0.375rem ;
+}
+
+input[type="submit"].icon.circle:before, input[type="reset"].icon.circle:before, input[type="button"].icon.circle:before, button.icon.circle:before, .button.icon.circle:before{
+    right: 0;
+}
+
+input[type="submit"].icon.circle.fa-angle-left:before, input[type="reset"].icon.circle.fa-angle-left:before, input[type="button"].icon.circle.fa-angle-left:before, button.icon.circle.fa-angle-left:before, .button.icon.circle.fa-angle-left:before{
+    right: -0.1rem;
+}
+
+input[type="submit"].icon.circle.fa-angle-right:before, input[type="reset"].icon.circle.fa-angle-right:before, input[type="button"].icon.circle.fa-angle-right:before, button.icon.circle.fa-angle-right:before, .button.icon.circle.fa-angle-right:before{
+    right: 0.1rem;
+}
+
+input[type="submit"].small, input[type="reset"].small, input[type="button"].small, button.small, .button.small{
+    padding: 0 1.4rem 0 1.25rem ;
+}
+
+input[type="submit"].large, input[type="reset"].large, input[type="button"].large, button.large, .button.large{
+    padding: 0 2.15rem 0 2rem ;
+}
+
+.gallery .modal{
+    right: 0;
+}
+
+.gallery .modal:before{
+    right: 50%;
+    margin: -2rem -2rem 0 0 ;
+}
+
+.gallery .modal:after{
+    left: 0.5rem;
+}
+
+.panel > .intro{
+    padding: 3.5rem 3.5rem 2rem 3.5rem ;
+}
+
+.panel > .intro.joined{
+    padding-left: 0;
+	padding-right: 3.5rem;
+}
+
+.panel > .intro.joined + .inner{
+    padding-right: 2.625rem;
+}
+
+.panel > .inner{
+    padding: 3.5rem 3.5rem 2rem 3.5rem ;
+}
+
+.panel > .inner.columns > *{
+    margin-right: 3.5rem;
+}
+
+.panel > .inner.columns > :first-child{
+    margin-right: 0;
+}
+
+.panel > .inner.columns.divided > *{
+    margin-right: 7rem;
+}
+
+.panel > .inner.columns.divided > *:before{
+    margin-right: -3.5rem;
+}
+
+.panel > .inner.columns.divided > :first-child{
+    margin-right: 0;
+}
+
+.panel.banner .content{
+    padding: 3.5rem 3.5rem 2rem 3.5rem ;
+}
+
+.panel.banner .image img{
+    right: 0;
+}
+
+.panel.spotlight .content{
+    padding: 3.5rem 3.5rem 2rem 3.5rem ;
+}
+
+.panel.spotlight .image{
+    right: 0;
+}
+
+.panel.spotlight .image img{
+    right: 0;
+}
+
+#wrapper > .scrollZone.left{
+    right: 0;
+}
+
+#wrapper > .scrollZone.right{
+    left: 0;
+}
+
+#wrapper > .copyright{
+    left: 0;
+}
+
+.Languages{
+    right: 0;
+	left:auto;
+    padding: 1rem 5rem 0 0 ;
+}
+
+.Languages .Languages-btns {
+	direction: ltr;
+}
+
+@media screen and (max-width: 736px){
+    h1.major{
+        margin: 0 0 2.625rem 0 ;
+    }
+
+    h2.major{
+        margin: 0 0 1.9875rem 0 ;
+    }
+
+    h3.major{
+        margin: 0 0 1.875rem 0 ;
+    }
+
+    form > .fields{
+        margin: -1.125rem -1.125rem 1.5rem 0 ;
+    }
+
+    form > .fields > .field{
+        padding: 1.125rem 1.125rem 0 0 ;
+    }
+
+    ul.grid-icons{
+        margin: -1rem -1rem 1.5rem 0 ;
+    }
+
+    ul.grid-icons > li{
+        margin: 1rem 1rem 0 0 !important;
+    }
+
+    .panel > .intro{
+        padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;
+    }
+
+    .panel > .intro.joined{
+        padding-left: 1.75rem;
+		padding-right: 1.75rem;
+    }
+
+    .panel > .intro.joined + .inner{
+        padding-right: 1.75rem;
+    }
+
+    .panel > .inner{
+        padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;
+    }
+
+    .panel > .inner.columns > *{
+        margin-right: 0;
+    }
+
+    .panel > .inner.columns.divided > *{
+        margin-right: 0;
+    }
+
+    .panel > .inner.columns.divided > *:before{
+        right: 1.75rem;
+        margin-right: 0;
+    }
+
+    .panel.banner .content{
+        padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;
+    }
+
+    .panel.spotlight .content{
+        padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;
+    }
+
+    #wrapper{
+        margin: 0 0 0 0 ;
+    }
+
+    .Languages{
+        padding: 0.8875rem 1.75rem 1.3875rem 1.75rem ;
+    }
+
+}
