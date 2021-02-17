@@ -1,0 +1,65 @@
+meta:
+  description: Turtlecoin is een gedecentraliseerde peer-to-peer, open source, digitaal geld. Gemakkelijk om te beginnen, volledig privé, en klaar voor u vandaag.
+  title: TurtleCoin
+# welcome section
+turtlecoin_is: TurtleCoin</span> is een
+                            gedecentraliseerde
+                            <strong>Peer-to-Peer</strong>
+                            <a href="https://github.com/turtlecoin"
+                                >Open Source</a
+                            >
+                            digitaal geld. Gemakkelijk te beginnen
+                            <strong>volledig privé</strong>, en
+                            <a href="https://edu.turtlecoin.lol"
+                                >klaar voor u </a
+                            >
+                            vandaag.
+get_started: Laten we beginnen in <strong>3 gemakkelijke stappen.</strong>
+
+
+# wallet section
+wallet_title: Kies een Wallet
+wallet_we_support: We ondersteunen
+                            <strong>Windows, MacOS, Linux, Android, </strong>
+                            en<strong> <a href="http://latest.turtlecoin.lol">CLI</a> of Web-based </strong>wallets.
+wallet_long_term_storage: Voor langetermijn opslag, raden we een
+                            <strong><a href="/wallet">papier wallet</a></strong>aan.
+
+#say hello section
+say_hello_title: Zeg Hallo
+
+#get in the know section
+get_know_title: Blijf Op De Hoogte
+get_know_text: Elke week posten we updates op de
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >Officiële
+                                    <span class="reg">TurtleCoin</span> Blog</a
+                                ></strong
+                            >
+                            en detailleren we wat we bereikt hebben. Of je nu een coole creatie wilt bijdragen, 
+                            of enkel onze community een hart onder de riem wil steken. 
+                            Iedereen is welkom om een bijdrage te leveren aan het artikel.
+get_know_button: Klik om een update te schrijven
+
+#blog updates section
+blog_updates_title: Recente Blog Updates
+
+#dev activity section
+dev_activity_title: Recente Dev Activiteit
+dev_activity_issues: Issues
+dev_activity_core_commits: Core Commits
+
+#building apps section
+building_apps_title: Apps Bouwen Op
+building_apps_text: <span class="reg">TurtleCoin</span> heeft vele diensten
+                                                    en documentatie voor degene die willen bouwen
+                                                    op onze API's. hier zijn enkele links om u op weg te helpen.
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> API
+                                Documentatie
+building_apps_service_doc: <span class="reg">TurtleCoin</span> Service
+                                Documentatie
+
+
+
+
