@@ -1,0 +1,61 @@
+meta:
+  description: TurtleCoin to otwartoźródłowa, zdecentralizowana elektroniczna waluta Peer-2-Perr. Jest łatwa do zdobycia, w pełni prywatna i dostępna dla Ciebie od ręki.
+  title: TurtleCoin
+# welcome section
+turtlecoin_is: TurtleCoin</span> to
+                            <a href="https://github.com/turtlecoin"
+                                >otwartoźródłowa</a
+                            >,
+                            zdecentralizowana elektroniczna waluta
+                            <strong>Peer-2-Peer</strong>.
+                            Jest łatwa do zdobycia,
+                            <strong>w pełni prywatna</strong> i
+                            <a href="https://edu.turtlecoin.lol"
+                                >dostępna dla Ciebie</a
+                            >
+                            od ręki.
+get_started: Zacznij w <strong>trzech prostych krokach.</strong>
+
+
+# wallet section
+wallet_title: Wybierz portfel
+wallet_we_support: Wspieramy systemy
+                            <strong>Windows, MacOS, Linux, Android, </strong>
+                            a także portfel <strong> <a href="http://latest.turtlecoin.lol">CLI</a> oraz w chmurze.</strong>
+wallet_long_term_storage: Do przechowywania długoterminowego zalecamy użycie
+                            <strong><a href="/wallet">papierowego portfela</a></strong>.
+
+#say hello section
+say_hello_title: Powiedz Cześć
+
+#get in the know section
+get_know_title: Dowiedz się więcej
+get_know_text: Co tydzień aktualizujemy
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >Oficjalny
+                                    Blog <span class="reg">TurtleCoin</span></a
+                                ></strong
+                            >
+                            opisujący nasze osiągnięcia. Nie zależnie od tego czy chcesz
+                            pokazać coś ciekawego co tworzysz, czy po prostu
+                            wysłać wiadomość do społeczności. Każda osoba chcąca
+                            wspomóc pisanie artykułów jest mile widziana.
+get_know_button: Kliknij by kontrybuować
+
+#blog updates section
+blog_updates_title: Ostatnie aktualizacje bloga
+
+#dev activity section
+dev_activity_title: Ostatnia aktywność deweloperów
+dev_activity_issues: Problemy
+dev_activity_core_commits: Aktualizacje
+
+#building apps section
+building_apps_title: Tworzenie aplikacji na
+building_apps_text: <span class="reg">TurtleCoin</span> posiada wiele serwisów
+                                i dokumentacji dla osób chcących tworzyć
+                                aplikacje używające naszego API. Niżej
+                                znajduje się kilka pomocnych linków.
+building_apps_api_doc: Dokumentacja API <span class="reg">TurtleCoin</span>
+building_apps_service_doc: Dokumentacja Serwisu <span class="reg">TurtleCoin</span>
