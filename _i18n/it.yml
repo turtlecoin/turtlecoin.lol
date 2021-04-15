@@ -1,0 +1,35 @@
+meta:
+  description: TurtleCoin è una moneta elettronica Peer-2-Peer ed Open Source. È semplice da usare, completamente anonima, e divertente.
+  title: TurtleCoin
+
+# welcome section
+turtlecoin_is: TurtleCoin</span> è una moneta elettronica <strong>Peer-2-Peer</strong> ed <a href="https://github.com/turtlecoin">Open Source</a>. È <a href="https://docs.turtlecoin.lol/">semplice da usare</a>, <strong>completamente anonima</strong>, e divertente.
+get_started: Inizia subito in <strong>3 semplici passi.</strong>
+
+
+# wallet section
+wallet_title: Apri un Portafoglio
+wallet_we_support: La nostra app è disponibile su <strong>Windows, MacOS, Linux, e Android</strong>, in versione <strong><a href="http://latest.turtlecoin.lol">CLI</a> o sul Browser</strong>.
+wallet_long_term_storage: Per utilizzo a lungo termine, consigliamo l'uso di un <strong><a href="/wallet">portafoglio cartaceo</a></strong>.
+
+#say hello section
+say_hello_title: Vieni a Trovarci
+
+#get in the know section
+get_know_title: Scopri di Più
+get_know_text: Pubblichiamo nuovi articoli ogni settimana sul <strong><a href="https://blog.turtlecoin.lol">Blog ufficiale di <span class="reg">TurtleCoin</span></a></strong> condividendo nel dettaglio i nostri risultati. Nel caso tu voglia scrivere di un tuo progetto, condividere le tue esperienze con il progetto, o semplicemente far parte della nostra comunità, sono tutti libieri di pubblicare un proprio articolo sul blog.
+get_know_button: Scrivi un post
+
+#blog updates section
+blog_updates_title: Articoli Recenti
+
+#dev activity section
+dev_activity_title: Ultime Attività degli Sviluppatori
+dev_activity_issues: Problemi
+dev_activity_core_commits: Core Commits
+
+#building apps section
+building_apps_title: Sviluppare App con
+building_apps_text: <span class="reg">TurtleCoin</span> offre diversi servizi ed una documentazione completa per aiutare gli sviluppatori ad integrare le nostre API nelle loro app. Ecco dei link per aiutarvi.
+building_apps_api_doc:  <span class="reg">TurtleCoin</span>Documentaione delle API
+building_apps_service_doc: Documentazione dei Servizi di<span class="reg">TurtleCoin</span>
