@@ -8,9 +8,9 @@ get_started: Inizia subito in <strong>3 semplici passi.</strong>
 
 
 # wallet section
-wallet_title: Apri un Wallet
+wallet_title: Apri un Portafoglio Digitale
 wallet_we_support: La nostra app è disponibile su <strong>Windows, MacOS, Linux, e Android</strong>, in versione <strong><a href="http://latest.turtlecoin.lol">CLI</a> o sul Browser</strong>.
-wallet_long_term_storage: Per utilizzo a lungo termine, consigliamo l'uso di un <strong><a href="/wallet">wallet cartaceo</a></strong>.
+wallet_long_term_storage: Per utilizzo a lungo termine, consigliamo l'uso di un <strong><a href="/wallet">portafoglio cartaceo</a></strong>.
 
 #say hello section
 say_hello_title: Vieni a Trovarci
