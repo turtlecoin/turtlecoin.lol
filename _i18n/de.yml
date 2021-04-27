@@ -1,62 +1,57 @@
 meta:
-description: TurtleCoin ist ein Fun art Geld vertraulich zu freunden oder Geschäften zu senden. TurtleCoin ist eine Community-Entwickelte, Open Source Cryptocurrency die einfach zu Minen ist und eine Graphische Wallet hat.
-title: TurtleCoin.lol - Ein Fun, Schneller, und Einfacher weg Geld zu versenden an Freunde und Geschäfte
+description: TurtleCoin ist eine dezentrale elektronische Peer-2-Peer Open Source Währung. Sie ist einfach zu bekommen, komplett vertraulich, und heute für dich bereit.
 # welcome section
 turtlecoin_is: TurtleCoin</span> ist eine
-                            dezentrale
+                            dezentrale elektronische
                             <strong>Peer-2-Peer</strong>
                             <a href="https://github.com/turtlecoin"
                                 >Open Source</a
                             >
-                            elektronische Währung. Sie ist Einfach zu bekommen,
-                            <strong>Komplett vertraulich</strong>, und
-                            <a href="https://docs.turtlecoin.lol/"
-                                >Bereit für dich</a
+                            Währung. Sie ist einfach zu bekommen,
+                            <strong>komplett vertraulich</strong>, und
+                            heute <a href="https://docs.turtlecoin.lol/"
+                                >für dich bereit</a
                             >
-                            Heute.
-get_started: Lass uns loslegen in <strong>3 einfachen schritten.</strong>
+                            .
+get_started: Lass uns in <strong>3 einfachen Schritten.</strong> loslegen.
 
 
 # wallet section
 wallet_title: Wähle eine Wallet
-wallet_we_support: Wir Supporten
-                            <strong>Windows, MacOS, Linux, Android,</strong>
-                            und<strong> Web-based </strong>Wallets.
-wallet_long_term_storage: Für Langzeit aufbewahrung empfehlen wir die nutzug einer
-                            <strong><a href="/wallet">Papier Wallet</a></strong>.
+wallet_we_support: Wir unterstützen
+                            <strong>Windows, MacOS, Linux, Android</strong>
+                             und<strong> webbasierte</strong> Wallets.
+wallet_long_term_storage: Für eine Langzeitaufbewahrung empfehlen wir die Nutzung einer
+                            <strong><a href="/wallet">Paper Wallet</a></strong>.
 
 #say hello section
 say_hello_title: Sag Hallo
 
 #get in the know section
-get_know_title: Informiere dich
-get_know_text: Jede Woche Posten wir updates auf dem
+get_know_title: Bleib informiert
+get_know_text: Jede Woche posten wir Updates auf unserem
                             <strong>
                                 <a href="https://blog.turtlecoin.lol"
-                                    >Offiziellen
+                                    >offiziellen
                                     <span class="reg">TurtleCoin</span> Blog</a
                                 ></strong
                             >
-                            wo wir beschreiben was wir erreicht haben. Egal ob du 
-                            etwas cooles erschaffen hast oder einfach nur
-                            einen Shoutout an die Community senden möchtest, jeder ist
-                            willkommen ein stück beizutragen zum Artikel.
-get_know_button: Klicke um ein Update zu schreiben
+                            , wo wir genau schildern was wir bewerkstelligt haben. Egal ob du etwas cooles kreatives einreichen oder einfach nur einen Shoutout an die Community machen möchtest - jeder ist willkommen seinen Teil zu diesem Artikel beizutragen.
+get_know_button: Klicke, um ein Update zu schreiben
 
 #blog updates section
-blog_updates_title: Aktuelle Blog Updates
+blog_updates_title: Neueste Blog-Updates
 
 #dev activity section
-dev_activity_title: Aktuelle Dev Aktivitäten
+dev_activity_title: Neueste Entwickleraktivität
 dev_activity_issues: Probleme
 dev_activity_core_commits: Core Commits
 
 #building apps section
-building_apps_title: Bauen von Apps auf
+building_apps_title: Apps erstellen auf
 building_apps_text: <span class="reg">TurtleCoin</span> hat einiges an
-                                Services und Dokumentation für diejenigen die
-                                etwas Bauen wollen auf basis unserer API's. Hier sind einige
-                                links drunter um dir auf deinem Weg zu helfen.
+                                Services und Dokumentation für diejenigen, welche etwas auf Basis unserer API's bauen möchten. Nachstehend einige
+                                Links, um Dir auf deinem Weg zu helfen.
 building_apps_api_doc:  <span class="reg">TurtleCoin</span> API
                                 Dokumentation
 building_apps_service_doc: <span class="reg">TurtleCoin</span> Service
