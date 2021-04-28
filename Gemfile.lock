@@ -40,7 +40,7 @@ GEM
     jekyll_asset_pipeline (0.6.2)
       jekyll (>= 3.5, < 5.0)
       liquid (~> 4.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
