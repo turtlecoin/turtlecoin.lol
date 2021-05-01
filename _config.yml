@@ -16,7 +16,7 @@ gems:
 
 # Localization config
 
-languages: ["en", "de", "es", "fr", "he", "pt-br", "tr", "zh", "nl", "it"]
+languages: ["en", "de", "es", "fr", "he", "pt-br", "tr", "zh", "nl", "it", "bg"]
 
 language_names:
   en:
@@ -49,6 +49,9 @@ language_names:
   it:
     short: it
     full: Italian
+  bg:
+    short: bg
+    full: Български
   # dev:
   #   short: dev
   #   full: Development
