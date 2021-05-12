@@ -1,0 +1,68 @@
+meta:
+  description: TurtleCoin är en decentraliserad Peer-2-Peer elektronisk valuta skriven med öppen källkod. Den är lätt att skaffa, helt privat och redo för dig idag.
+  title: TurtleCoin
+# welcome section
+turtlecoin_is: TurtleCoin</span> är en
+                            decentraliserad
+                            <strong>Peer-2-Peer</strong>
+                            elektronisk valuta skriven med
+                            <a href="https://github.com/turtlecoin"
+                                >öppen källkod</a
+                            >
+                            Den är lätt att skaffa,
+                            <strong>helt privat</strong>, och
+                            <a href="https://docs.turtlecoin.lol/"
+                                >redo för dig</a
+                            >
+                            idag.
+get_started: Kom igång med <strong>3 enkla steg.</strong>
+
+
+# wallet section
+wallet_title: Välj en plånbok
+wallet_we_support: Vi stödjer
+                            <strong>Windows, MacOS, Linux, Android, </strong>
+                            and<strong> <a href="http://latest.turtlecoin.lol">CLI</a> eller web-baserade </strong>plånböcker.
+wallet_long_term_storage: För långgtidsförvaring rekommendererar vi en
+                            <strong><a href="/wallet">pappersplånbok</a></strong>.
+
+#say hello section
+say_hello_title: Säg Hej
+
+#get in the know section
+get_know_title: Håll dig uppdaterad
+get_know_text: Varje vecka postar vi uppdateringar till den
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >officiella
+                                    <span class="reg">TurtleCoin</span> Bloggen</a
+                                ></strong
+                            >
+                            där vi beskriver vad vi åstadkommit. Vare sig du 
+                            vill skicka in något coolt du skapat, eller bara
+                            säga hej till vår gemenskap, är alla
+                            välkomna att bidra med sin del.
+get_know_button: Klicka för att skriva ett inlägg
+
+#blog updates section
+blog_updates_title: Aktuella uppdateringar från bloggen
+
+#dev activity section
+dev_activity_title: Aktuella uppdateringar från utvecklarna
+dev_activity_issues: Problem
+dev_activity_core_commits: Core Commits
+
+#building apps section
+building_apps_title: Bygg appar med
+building_apps_text: <span class="reg">TurtleCoin</span> har mängder med
+                                tjänster och dokumentation för de som vill
+                                utveckla med våra API'er. Här är några
+                                länkar nedanför som en hjälp på vägen.
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> API-
+                                dokumentation
+building_apps_service_doc: <span class="reg">TurtleCoin</span> Tjänste-
+                                Documentation
+
+
+
+
