@@ -1,0 +1,68 @@
+meta:
+  description: TurtleCoin е децентрализирана Peer-2-Peer електронна валута с отворен код. Лесна е за използване, напълно анонимна и готова за за теб още днес.
+  title: TurtleCoin
+# welcome section
+turtlecoin_is: TurtleCoin</span> е
+                            децентрализирана
+                            електронна 
+                            <strong>Peer-2-Peer</strong>
+                            валута с
+                            <a href="https://github.com/turtlecoin"
+                                >отворен код.</a
+                            >
+                            Лесна е за използване,
+                            <strong>напълно анонимна</strong> и
+                            <a href="https://docs.turtlecoin.lol/"
+                                >готова за теб</a
+                            >
+                            още днес.
+get_started: Нека да те въведем с <strong>3 лесни стъпки.</strong>
+
+
+
+# wallet section
+wallet_title: Избери портфейл
+wallet_we_support: Ние поддържаме
+                            <strong>Windows, MacOS, Linux, Android, </strong>
+                            и<strong> <a href="http://latest.turtlecoin.lol">Команден интерфейс</a> или уеб-базирани </strong>портфейли.
+wallet_long_term_storage: За дългосрочно съхранение на валута препоръчваме
+                            <strong><a href="/wallet">хартиен портфейл</a></strong>.
+
+#say hello section
+say_hello_title: Кажи ни здравей
+
+#get in the know section
+get_know_title: Информирай се
+get_know_text: Всяка седмица обновяваме нашия
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >Официален 
+                                    <span class="reg">TurtleCoin</span> Блог</a
+                                ></strong
+                            >
+                            с подробности какво сме постигнали. Дали искаш да 
+                            споделиш нещо яко което си създал или просто искаш
+                            да поздравиш общността ни, всеки е добре дошъл да
+                            да допринесе към съдържанието на статиите.
+get_know_button: Кликни тук за да допринесеш
+
+#blog updates section
+blog_updates_title: Скорошни актуализации на блога
+
+#dev activity section
+dev_activity_title: Скорошна активност на разработчиците
+dev_activity_issues: Решения
+dev_activity_core_commits: Главни обновления
+
+#building apps section
+building_apps_title: Разработване на приложения с
+building_apps_text: <span class="reg">TurtleCoin</span> има много услуги и 
+                                документация за всички вас които искате да 
+                                използвате нашият програмен интерфейс. Отдолу
+                                може да намерите няколко връзки, които ще ви 
+                                помогнат да започнете.
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> Документация на програмния интерфейс
+building_apps_service_doc: <span class="reg">TurtleCoin</span> Документация на налични услуги
+
+
+
