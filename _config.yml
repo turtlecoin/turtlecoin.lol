@@ -1,4 +1,4 @@
-baseurl: "" 
+baseurl: ""
 url: "https://turtlecoin.lol"
 
 # Do not copy these files to the build folder
@@ -16,7 +16,7 @@ gems:
 
 # Localization config
 
-languages: ["en", "de", "es", "fr", "he", "pt-br", "tr", "zh", "nl", "it", "bg"]
+languages: ["en", "de", "es", "fr", "he", "pt-br", "tr", "zh", "nl", "it", "bg", "pl"]
 
 language_names:
   en:
@@ -52,10 +52,13 @@ language_names:
   bg:
     short: bg
     full: Български
+  pl:
+    short: pl
+    full: Polish
   # dev:
   #   short: dev
   #   full: Development
 
 
-# couldn't make this work 
+# couldn't make this work
 # exclude_from_localizations: ["assets"]
